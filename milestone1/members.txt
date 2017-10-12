@@ -4,5 +4,5 @@ Anh Le (@LaDilettante, anh.le@duke.edu)
 - Discuss the E/R design, write SQL to create tables, seed data, and query a sample
 
 Alex Blumenstock (@ab546, ab546@duke.edu)
-
+-Generate E/R diagram, convert to tables, help uncover assumptions
 Russell Llave (@rkey5, ral30@duke.edu)
