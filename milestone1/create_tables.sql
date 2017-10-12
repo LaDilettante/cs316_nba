@@ -58,6 +58,6 @@ INSERT INTO CollegePerformances VALUES
   ('Duke', 2016, 25, 11),
   ('UNC', 2016, 33, 7);
 INSERT INTO PlayerPerformances VALUES
-  ('Brandon Ingram', 'Duke', '6.75', '190', '14');
+  ('Brandon Ingram', 2016, '6.75', '190', '14');
 INSERT INTO CollegeRoster VALUES
   ('Duke', 'Brandom Ingram', '2015', '2016');
