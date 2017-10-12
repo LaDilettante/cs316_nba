@@ -1,6 +1,7 @@
 Hamsa Vardhaan (@vardhaan, hsp8@duke.edu)
 
 Anh Le (@LaDilettante, anh.le@duke.edu)
+- Discuss the E/R design, write SQL to create tables, seed data, and query a sample
 
 Alex Blumenstock (@ab546, ab546@duke.edu)
 
