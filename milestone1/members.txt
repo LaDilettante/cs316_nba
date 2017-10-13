@@ -7,3 +7,6 @@ Anh Le (@LaDilettante, anh.le@duke.edu)
 Alex Blumenstock (@ab546, ab546@duke.edu)
 -Generate E/R diagram, convert to tables, help uncover assumptions
 Russell Llave (@rkey5, ral30@duke.edu)
+
+Vidur Malhotra (@vidurmalhotra22, vm64@duke.edu)
+- Compiled progress report 
