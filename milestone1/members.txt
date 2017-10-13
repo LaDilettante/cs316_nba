@@ -1,4 +1,4 @@
-Hamsa Vardhaan (@vardhaan, hsp8@duke.edu)
+Hamsa Pillai (@vardhaan, hsp8@duke.edu)
 - Discuss E/R design, designed and created UI mockup (with Russell Llave).
 
 Anh Le (@LaDilettante, anh.le@duke.edu)
