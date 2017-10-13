@@ -1,4 +1,5 @@
 Hamsa Vardhaan (@vardhaan, hsp8@duke.edu)
+- Discuss E/R design, designed and created UI mockup (with Russell Llave).
 
 Anh Le (@LaDilettante, anh.le@duke.edu)
 - Discuss the E/R design, write SQL to create tables, seed data, and query a sample
