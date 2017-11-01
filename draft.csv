@@ -1,0 +1,1126 @@
+Rk,Year,Lg,Rd,Pk,Tm,Player,Age,Pos,Born,College
+1,2016,NBA,1,1,PHI,Ben Simmons\simmobe01,19.343,G-F,au,Louisiana State University
+2,2016,NBA,1,2,LAL,Brandon Ingram\ingrabr01,18.299,F,us,Duke University
+3,2016,NBA,1,3,BOS,Jaylen Brown\brownja02,19.247,F-G,us,University of California
+4,2016,NBA,1,4,PHO,Dragan Bender\bendedr01,18.223,F,ba,
+5,2016,NBA,1,5,MIN,Kris Dunn\dunnkr01,22.103,G,us,Providence College
+6,2016,NBA,1,6,NOP,Buddy Hield\hieldbu01,22.194,G,bs,University of Oklahoma
+7,2016,NBA,1,7,DEN,Jamal Murray\murraja01,19.125,G,ca,University of Kentucky
+8,2016,NBA,1,8,SAC,Marquese Chriss\chrisma01,18.361,F,us,University of Washington
+9,2016,NBA,1,9,TOR,Jakob Poeltl\poeltja01,20.257,C,at,University of Utah
+10,2016,NBA,1,10,MIL,Thon Maker\makerth01,19.123,F-C,ss,
+11,2016,NBA,1,11,ORL,Domantas Sabonis\sabondo01,20.056,F,us,Gonzaga University
+12,2016,NBA,1,12,UTA,Taurean Prince\princta02,22.099,F,us,Baylor University
+13,2016,NBA,1,13,PHO,Georgios Papagiannis\papagge01,18.36,C,gr,
+14,2016,NBA,1,14,CHI,Denzel Valentine\valende01,22.225,G,us,Michigan State University
+15,2016,NBA,1,15,DEN,Juan Hernangomez\hernaju01,20.274,F,es,
+16,2016,NBA,1,16,BOS,Guerschon Yabusele\yabusgu01,20.194,F,fr,
+17,2016,NBA,1,17,MEM,Wade Baldwin\baldwwa01,20.091,G,us,Vanderbilt University
+18,2016,NBA,1,18,DET,Henry Ellenson\ellenhe01,19.166,F,us,Marquette University
+19,2016,NBA,1,19,DEN,Malik Beasley\beaslma01,19.214,G,us,Florida State University
+20,2016,NBA,1,20,IND,Caris LeVert\leverca01,21.308,G-F,us,University of Michigan
+21,2016,NBA,1,21,ATL,DeAndre Bembry\bembrde01,21.36,F,us,Saint Joseph's University
+22,2016,NBA,1,22,CHO,Malachi Richardson\richama01,20.175,G,us,Syracuse University
+23,2016,NBA,1,23,BOS,Ante Zizic\zizican01,19.175,F-C,hr,
+24,2016,NBA,1,24,PHI,Timothe Luwawu\luwawti01,21.051,F,fr,
+25,2016,NBA,1,25,LAC,Brice Johnson\johnsbr02,22.002,F,us,University of North Carolina
+26,2016,NBA,1,26,PHI,Furkan Korkmaz\korkmfu01,18.339,G,tr,
+27,2016,NBA,1,27,TOR,Pascal Siakam\siakapa01,22.145,F,cm,New Mexico State University
+28,2016,NBA,1,28,PHO,Skal Labissiere\labissk01,20.102,F,ht,University of Kentucky
+29,2016,NBA,1,29,SAS,Dejounte Murray\murrade01,19.282,G,us,University of Washington
+30,2016,NBA,1,30,GSW,Damian Jones\jonesda03,20.364,F-C,us,Vanderbilt University
+31,2016,NBA,2,31,BOS,Deyonta Davis\davisde01,19.208,F-C,us,Michigan State University
+32,2016,NBA,2,32,LAL,Ivica Zubac\zubaciv01,19.102,C,ba,
+33,2016,NBA,2,33,LAC,Cheick Diallo\diallch01,19.288,F,ml,University of Kansas
+34,2016,NBA,2,34,PHO,Tyler Ulis\ulisty01,20.175,G,us,University of Kentucky
+35,2016,NBA,2,35,BOS,Rade Zagorac\zagorra01,20.321,G-F,rs,
+36,2016,NBA,2,36,MIL,Malcolm Brogdon\brogdma01,23.2,G,us,University of Virginia
+37,2016,NBA,2,37,HOU,Chinanu Onuaku\onuakch01,19.239,F-C,us,University of Louisville
+38,2016,NBA,2,38,MIL,Patrick McCaw\mccawpa01,20.247,G,us,University of Nevada Las Vegas
+39,2016,NBA,2,39,NOP,David Michineau\michida01,22.023,G,gp,
+40,2016,NBA,2,40,NOP,Diamond Stone\stonedi01,19.138,C,us,University of Maryland
+41,2016,NBA,2,41,ORL,Stephen Zimmerman\zimmest01,19.292,C,us,University of Nevada Las Vegas
+42,2016,NBA,2,42,UTA,Isaiah Whitehead\whiteis01,21.113,G,us,Seton Hall University
+43,2016,NBA,2,43,HOU,Zhou Qi\qizh01,20.164,F-C,cn,
+44,2016,NBA,2,44,ATL,Isaia Cordinier\cordiis01,19.212,G,fr,
+45,2016,NBA,2,45,BOS,Demetrius Jackson\jacksde01,21.295,G,us,University of Notre Dame
+46,2016,NBA,2,46,DAL,A.J. Hammons\hammoaj01,23.306,C,us,Purdue University
+47,2016,NBA,2,47,ORL,Jake Layman\laymaja01,22.114,F,us,University of Maryland
+48,2016,NBA,2,48,CHI,Paul Zipser\zipsepa01,22.131,G-F,de,
+49,2016,NBA,2,49,DET,Michael Gbinije\gbinimi01,24.024,G,us,Syracuse University
+50,2016,NBA,2,50,IND,Georges Niang\niangge01,23.012,F,us,Iowa State University
+51,2016,NBA,2,51,BOS,Ben Bentil\bentibe01,21.092,F,gh,Providence College
+52,2016,NBA,2,52,UTA,Joel Bolomboy\bolomjo01,22.152,F,ua,Weber State University
+53,2016,NBA,2,53,DEN,Petr Cornelie\cornepe01,20.338,F,fr,
+54,2016,NBA,2,54,ATL,Kay Felder\feldeka01,21.092,G,us,Oakland University
+55,2016,NBA,2,55,BRK,Marcus Paige\paigema01,22.291,G,us,University of North Carolina
+56,2016,NBA,2,56,DEN,Daniel Hamilton\hamilda02,20.325,G-F,us,University of Connecticut
+57,2016,NBA,2,57,MEM,Wang Zhelin\sheliwa01,22.16,C,cn,
+58,2016,NBA,2,58,BOS,Abdel Nader\naderab01,22.277,F,eg,Iowa State University
+59,2016,NBA,2,59,SAC,Isaiah Cousins\cousiis01,22.108,G,us,University of Oklahoma
+60,2016,NBA,2,60,UTA,Tyrone Wallace\wallaty01,22.019,G,us,University of California
+61,2015,NBA,1,1,MIN,Karl-Anthony Towns\townska01,19.227,C-F,us,University of Kentucky
+62,2015,NBA,1,2,LAL,D'Angelo Russell\russeda01,19.127,G,us,Ohio State University
+63,2015,NBA,1,3,PHI,Jahlil Okafor\okafoja01,19.197,C-F,us,Duke University
+64,2015,NBA,1,4,NYK,Kristaps Porzingis\porzikr01,19.332,F-C,lv,
+65,2015,NBA,1,5,ORL,Mario Hezonja\hezonma01,20.125,F-G,hr,
+66,2015,NBA,1,6,SAC,Willie Cauley-Stein\caulewi01,21.316,F-C,us,University of Kentucky
+67,2015,NBA,1,7,DEN,Emmanuel Mudiay\mudiaem01,19.116,G,cd,
+68,2015,NBA,1,8,DET,Stanley Johnson\johnsst04,19.031,F,us,University of Arizona
+69,2015,NBA,1,9,CHO,Frank Kaminsky\kaminfr01,22.087,F-C,us,University of Wisconsin
+70,2015,NBA,1,10,MIA,Justise Winslow\winslju01,19.095,F,us,Duke University
+71,2015,NBA,1,11,IND,Myles Turner\turnemy01,19.097,C-F,us,University of Texas at Austin
+72,2015,NBA,1,12,UTA,Trey Lyles\lylestr01,19.237,F,ca,University of Kentucky
+73,2015,NBA,1,13,PHO,Devin Booker\bookede01,18.242,G,us,University of Kentucky
+74,2015,NBA,1,14,OKC,Cameron Payne\payneca01,20.326,G,us,Murray State University
+75,2015,NBA,1,15,ATL,Kelly Oubre\oubreke01,19.203,F,us,University of Kansas
+76,2015,NBA,1,16,BOS,Terry Rozier\roziete01,21.105,G,us,University of Louisville
+77,2015,NBA,1,17,MIL,Rashad Vaughn\vaughra01,18.317,G,us,University of Nevada Las Vegas
+78,2015,NBA,1,18,HOU,Sam Dekker\dekkesa01,21.055,F,us,University of Wisconsin
+79,2015,NBA,1,19,WAS,Jerian Grant\grantje02,22.264,G,us,University of Notre Dame
+80,2015,NBA,1,20,TOR,Delon Wright\wrighde01,23.065,G,us,University of Utah
+81,2015,NBA,1,21,DAL,Justin Anderson\anderju01,21.223,G,us,University of Virginia
+82,2015,NBA,1,22,CHI,Bobby Portis\portibo01,20.14,F,us,University of Arkansas
+83,2015,NBA,1,23,POR,Rondae Hollis-Jefferson\holliro01,20.178,F,us,University of Arizona
+84,2015,NBA,1,24,CLE,Tyus Jones\jonesty01,19.05,G,us,Duke University
+85,2015,NBA,1,25,MEM,Jarell Martin\martija01,21.037,F,us,Louisiana State University
+86,2015,NBA,1,26,SAS,Nikola Milutinov\milutni01,20.182,C,rs,
+87,2015,NBA,1,27,LAL,Larry Nance Jr.\nancela02,22.18,F,us,University of Wyoming
+88,2015,NBA,1,28,BOS,R.J. Hunter\hunterj01,21.249,G,us,Georgia State University
+89,2015,NBA,1,29,BRK,Chris McCullough\mcculch01,20.145,F,us,Syracuse University
+90,2015,NBA,1,30,GSW,Kevon Looney\looneke01,19.144,F-C,us,University of California Los Angeles
+91,2015,NBA,2,31,MIN,Cedi Osman\osmande01,20.083,F,mk,
+92,2015,NBA,2,32,HOU,Montrezl Harrell\harremo01,21.155,F-C,us,University of Louisville
+93,2015,NBA,2,33,BOS,Jordan Mickey\mickejo01,20.356,F,us,Louisiana State University
+94,2015,NBA,2,34,LAL,Anthony Brown\brownan02,22.263,F-G,us,Stanford University
+95,2015,NBA,2,35,PHI,Willy Hernangomez\hernawi01,21.034,C,es,
+96,2015,NBA,2,36,MIN,Rakeem Christmas\chrisra01,23.212,F,us,Syracuse University
+97,2015,NBA,2,37,PHI,Richaun Holmes\holmeri01,21.258,F-C,us,Bowling Green State University
+98,2015,NBA,2,38,DET,Darrun Hilliard\hillida01,22.078,G,us,Villanova University
+99,2015,NBA,2,39,CHO,Juan Pablo Vaulet\vauleju01,19.099,F,ar,
+100,2015,NBA,2,40,MIA,Josh Richardson\richajo01,21.288,G,us,University of Tennessee
+101,2015,NBA,2,41,BRK,Pat Connaughton\connapa01,22.175,G,us,University of Notre Dame
+102,2015,NBA,2,42,UTA,Olivier Hanlan\hanlaol01,22.135,G,ca,Boston College
+103,2015,NBA,2,43,IND,Joseph Young\youngjo01,23.003,G,us,University of Oregon
+104,2015,NBA,2,44,PHO,Andrew Harrison\harrian01,20.245,G,us,University of Kentucky
+105,2015,NBA,2,45,BOS,Marcus Thornton\thornma02,22.141,G,us,College of William & Mary
+106,2015,NBA,2,46,MIL,Norman Powell\powelno01,22.036,G,us,University of California Los Angeles
+107,2015,NBA,2,47,PHI,Arturas Gudaitis\gudaiar01,22.011,C,lt,
+108,2015,NBA,2,48,OKC,Dakari Johnson\johnsda04,19.281,C,us,University of Kentucky
+109,2015,NBA,2,49,WAS,Aaron White\whiteaa01,22.293,F,us,University of Iowa
+110,2015,NBA,2,50,ATL,Marcus Eriksson\eriksma01,21.207,G,se,
+111,2015,NBA,2,51,ORL,Tyler Harvey\harvety01,21.348,G,us,Eastern Washington University
+112,2015,NBA,2,52,DAL,Satnam Singh\singhsa01,19.202,C,in,
+113,2015,NBA,2,53,CLE,Sir'Dominic Pointer\pointsi01,23.055,G-F,us,St. John's University
+114,2015,NBA,2,54,UTA,Dani Diez\diezda01,22.084,F,es,
+115,2015,NBA,2,55,SAS,Cady Lalanne\lalanca01,23.069,C,ht,University of Massachusetts Amherst
+116,2015,NBA,2,56,NOP,Branden Dawson\dawsobr01,22.149,F,us,Michigan State University
+117,2015,NBA,2,57,DEN,Nikola Radicevic\radicni01,21.066,G,rs,
+118,2015,NBA,2,58,PHI,J.P. Tokoto\tokotjp01,21.288,G-F,us,University of North Carolina
+119,2015,NBA,2,59,ATL,Dimitrios Agravanis\agravdi01,20.192,F-C,gr,
+120,2015,NBA,2,60,PHI,Luka Mitrovic\mitrolu01,22.101,F,rs,
+121,2014,NBA,1,1,CLE,Andrew Wiggins\wiggian01,19.128,F-G,ca,University of Kansas
+122,2014,NBA,1,2,MIL,Jabari Parker\parkeja01,19.108,F,us,Duke University
+123,2014,NBA,1,3,PHI,Joel Embiid\embiijo01,20.107,C-F,cm,University of Kansas
+124,2014,NBA,1,4,ORL,Aaron Gordon\gordoaa01,18.288,F,us,University of Arizona
+125,2014,NBA,1,5,UTA,Dante Exum\exumda01,18.353,G,au,
+126,2014,NBA,1,6,BOS,Marcus Smart\smartma01,20.117,G,us,Oklahoma State University
+127,2014,NBA,1,7,LAL,Julius Randle\randlju01,19.214,F,us,University of Kentucky
+128,2014,NBA,1,8,SAC,Nik Stauskas\stausni01,20.267,G,ca,University of Michigan
+129,2014,NBA,1,9,CHH,Noah Vonleh\vonleno01,18.311,F,us,Indiana University
+130,2014,NBA,1,10,PHI,Elfrid Payton\paytoel01,20.129,G,us,University of Louisiana at Lafayette
+131,2014,NBA,1,11,DEN,Doug McDermott\mcderdo01,22.18,F,us,Creighton University
+132,2014,NBA,1,12,ORL,Dario Saric\saricda01,20.084,F,hr,
+133,2014,NBA,1,13,MIN,Zach LaVine\lavinza01,19.113,G,us,University of California Los Angeles
+134,2014,NBA,1,14,PHO,T.J. Warren\warretj01,20.299,F,us,North Carolina State University
+135,2014,NBA,1,15,ATL,Adreian Payne\paynead01,23.133,F-C,us,Michigan State University
+136,2014,NBA,1,16,CHI,Jusuf Nurkic\nurkiju01,19.312,C,ba,
+137,2014,NBA,1,17,BOS,James Young\youngja01,18.319,G-F,us,University of Kentucky
+138,2014,NBA,1,18,PHO,Tyler Ennis\ennisty01,19.311,G,ca,Syracuse University
+139,2014,NBA,1,19,CHI,Gary Harris\harriga01,19.29,G,us,Michigan State University
+140,2014,NBA,1,20,TOR,Bruno Caboclo\cabocbr01,18.283,F,br,
+141,2014,NBA,1,21,OKC,Mitch McGary\mcgarmi01,22.025,F-C,us,University of Michigan
+142,2014,NBA,1,22,MEM,Jordan Adams\adamsjo01,19.358,G,us,University of California Los Angeles
+143,2014,NBA,1,23,UTA,Rodney Hood\hoodro01,21.254,G-F,us,Duke University
+144,2014,NBA,1,24,CHH,Shabazz Napier\napiesh01,22.353,G,us,University of Connecticut
+145,2014,NBA,1,25,HOU,Clint Capela\capelca01,20.044,F-C,ch,
+146,2014,NBA,1,26,MIA,P.J. Hairston\hairspj02,21.189,G-F,us,University of North Carolina
+147,2014,NBA,1,27,PHO,Bogdan Bogdanovic\bogdabo01,21.317,G,rs,
+148,2014,NBA,1,28,LAC,C.J. Wilcox\wilcocj01,23.184,G,us,University of Washington
+149,2014,NBA,1,29,OKC,Josh Huestis\huestjo01,22.195,F,us,Stanford University
+150,2014,NBA,1,30,SAS,Kyle Anderson\anderky01,20.284,F-G,us,University of California Los Angeles
+151,2014,NBA,2,31,MIL,Damien Inglis\inglida01,19.042,F,gf,
+152,2014,NBA,2,32,PHI,K.J. McDaniels\mcdankj01,21.142,G-F,us,Clemson University
+153,2014,NBA,2,33,CLE,Joe Harris\harrijo01,22.298,G,us,University of Virginia
+154,2014,NBA,2,34,NYK,Cleanthony Early\earlycl01,23.076,F,us,Wichita State University
+155,2014,NBA,2,35,UTA,Jarnell Stokes\stokeja01,20.175,F-C,us,University of Tennessee
+156,2014,NBA,2,36,MIL,Johnny O'Bryant III\obryajo01,21.03,F-C,us,Louisiana State University
+157,2014,NBA,2,37,TOR,DeAndre Daniels\daniede01,22.077,F,us,University of Connecticut
+158,2014,NBA,2,38,DET,Spencer Dinwiddie\dinwisp01,21.086,G,us,University of Colorado
+159,2014,NBA,2,39,PHI,Jerami Grant\grantje01,20.111,F,us,Syracuse University
+160,2014,NBA,2,40,MIN,Glenn Robinson III\robingl02,20.174,G-F,us,University of Michigan
+161,2014,NBA,2,41,DEN,Nikola Jokic\jokicni01,19.132,C-F,rs,
+162,2014,NBA,2,42,HOU,Nick Johnson\johnsni01,21.191,G,us,University of Arizona
+163,2014,NBA,2,43,ATL,Walter Tavares\tavarwa01,22.101,C,cv,
+164,2014,NBA,2,44,MIN,Markel Brown\brownma02,22.154,G,us,Oklahoma State University
+165,2014,NBA,2,45,CHH,Dwight Powell\poweldw01,22.347,F-C,ca,Stanford University
+166,2014,NBA,2,46,WAS,Jordan Clarkson\clarkjo01,22.024,G,us,University of Missouri
+167,2014,NBA,2,47,PHI,Russ Smith\smithru01,23.074,G,us,University of Louisville
+168,2014,NBA,2,48,MIL,Lamar Patterson\pattela01,22.324,G-F,us,University of Pittsburgh
+169,2014,NBA,2,49,CHI,Cameron Bairstow\bairsca01,23.207,F-C,au,University of New Mexico
+170,2014,NBA,2,50,PHO,Alec Brown\brownal01,21.343,F-C,us,University of Wisconsin-Green Bay
+171,2014,NBA,2,51,NYK,Thanasis Antetokounmpo\antetth01,21.349,F,gr,
+172,2014,NBA,2,52,PHI,Vasilije Micic\micicva01,20.169,G,rs,
+173,2014,NBA,2,53,MIN,Alessandro Gentile\gential01,21.231,F,it,
+174,2014,NBA,2,54,PHI,Nemanja Dangubic\dangune01,21.079,G,rs,
+175,2014,NBA,2,55,MIA,Semaj Christon\chrisse01,21.242,G,us,Xavier University
+176,2014,NBA,2,56,DEN,Roy Devyn Marble\marblde01,21.283,G-F,us,University of Iowa
+177,2014,NBA,2,57,IND,Louis Labeyrie\labeylo01,22.141,F,fr,
+178,2014,NBA,2,58,SAS,Jordan McRae\mcraejo01,23.096,G,us,University of Tennessee
+179,2014,NBA,2,59,TOR,Xavier Thames\thamexa01,23.164,G,us,San Diego State University
+180,2014,NBA,2,60,SAS,Cory Jefferson\jeffeco01,23.188,F,us,Baylor University
+181,2013,NBA,1,1,CLE,Anthony Bennett\bennean01,20.11,F,ca,University of Nevada Las Vegas
+182,2013,NBA,1,2,ORL,Victor Oladipo\oladivi01,21.059,G,us,Indiana University
+183,2013,NBA,1,3,WAS,Otto Porter\porteot01,20.029,F,us,Georgetown University
+184,2013,NBA,1,4,CHA,Cody Zeller\zelleco01,20.27,F-C,us,Indiana University
+185,2013,NBA,1,5,PHO,Alex Len\lenal01,20.016,C,ua,University of Maryland
+186,2013,NBA,1,6,NOH,Nerlens Noel\noelne01,19.083,C-F,us,University of Kentucky
+187,2013,NBA,1,7,SAC,Ben McLemore\mclembe01,20.141,G,us,University of Kansas
+188,2013,NBA,1,8,DET,Kentavious Caldwell-Pope\caldwke01,20.134,G,us,University of Georgia
+189,2013,NBA,1,9,MIN,Trey Burke\burketr01,20.232,G,us,University of Michigan
+190,2013,NBA,1,10,POR,C.J. McCollum\mccolcj01,21.287,G,us,Lehigh University
+191,2013,NBA,1,11,PHI,Michael Carter-Williams\cartemi01,21.266,G,us,Syracuse University
+192,2013,NBA,1,12,OKC,Steven Adams\adamsst01,19.347,C,nz,University of Pittsburgh
+193,2013,NBA,1,13,DAL,Kelly Olynyk\olynyke01,22.075,C-F,ca,Gonzaga University
+194,2013,NBA,1,14,UTA,Shabazz Muhammad\muhamsh01,20.231,F-G,us,University of California Los Angeles
+195,2013,NBA,1,15,MIL,Giannis Antetokounmpo\antetgi01,18.208,F-G,gr,
+196,2013,NBA,1,16,BOS,Lucas Nogueira\noguelu01,20.341,C,br,
+197,2013,NBA,1,17,ATL,Dennis Schroder\schrode01,19.29,G,de,
+198,2013,NBA,1,18,ATL,Shane Larkin\larkish01,20.273,G,us,University of Miami
+199,2013,NBA,1,19,CLE,Sergey Karasev\karasse01,19.249,G-F,ru,
+200,2013,NBA,1,20,CHI,Tony Snell\snellto01,21.235,G-F,us,University of New Mexico
+201,2013,NBA,1,21,UTA,Gorgui Dieng\dienggo01,23.166,C,sn,University of Louisville
+202,2013,NBA,1,22,BRK,Mason Plumlee\plumlma01,23.12,C-F,us,Duke University
+203,2013,NBA,1,23,IND,Solomon Hill\hillso01,22.107,F,us,University of Arizona
+204,2013,NBA,1,24,NYK,Tim Hardaway\hardati02,21.108,G,us,University of Michigan
+205,2013,NBA,1,25,LAC,Reggie Bullock\bullore01,22.109,G-F,us,University of North Carolina
+206,2013,NBA,1,26,MIN,Andre Roberson\roberan03,21.211,G-F,us,University of Colorado
+207,2013,NBA,1,27,DEN,Rudy Gobert\goberru01,21.006,C,fr,
+208,2013,NBA,1,28,SAS,Livio Jean-Charles\jeancli01,19.236,F,gf,
+209,2013,NBA,1,29,OKC,Archie Goodwin\goodwar01,18.319,G,us,University of Kentucky
+210,2013,NBA,1,30,PHO,Nemanja Nedovic\nedovne01,22.017,G,rs,
+211,2013,NBA,2,31,CLE,Allen Crabbe\crabbal01,21.084,G-F,us,University of California
+212,2013,NBA,2,32,OKC,Alex Abrines\abrinal01,19.335,G-F,es,
+213,2013,NBA,2,33,CLE,Carrick Felix\felixca01,22.32,G,us,Arizona State University
+214,2013,NBA,2,34,HOU,Isaiah Canaan\canaais01,22.043,G,us,Murray State University
+215,2013,NBA,2,35,PHI,Glen Rice\ricegl02,22.183,G,us,Georgia Institute of Technology
+216,2013,NBA,2,36,SAC,Ray McCallum\mccalra01,22.021,G,us,University of Detroit Mercy
+217,2013,NBA,2,37,DET,Tony Mitchell\mitchto02,21.086,F,us,University of North Texas
+218,2013,NBA,2,38,WAS,Nate Wolters\woltena01,22.049,G,us,South Dakota State University
+219,2013,NBA,2,39,POR,Jeff Withey\witheje01,23.118,C,us,University of Kansas
+220,2013,NBA,2,40,POR,Grant Jerrett\jerregr01,19.359,F,us,University of Arizona
+221,2013,NBA,2,41,MEM,Jamaal Franklin\frankja01,21.347,G,us,San Diego State University
+222,2013,NBA,2,42,PHI,Pierre Jackson\jackspi01,21.308,G,us,Baylor University
+223,2013,NBA,2,43,MIL,Ricky Ledo\ledori01,20.295,G,us,Providence College
+224,2013,NBA,2,44,DAL,Mike Muscala\muscami01,22.002,F-C,us,Bucknell University
+225,2013,NBA,2,45,POR,Marko Todorovic\todorma01,21.074,F,me,
+226,2013,NBA,2,46,UTA,Erick Green\greener01,22.055,G,us,Virginia Polytechnic Institute and State University
+227,2013,NBA,2,47,ATL,Raul Neto\netora01,21.044,G,br,
+228,2013,NBA,2,48,LAL,Ryan Kelly\kellyry01,22.085,F,us,Duke University
+229,2013,NBA,2,49,CHI,Erik Murphy\murpher01,22.25,F,fr,University of Florida
+230,2013,NBA,2,50,ATL,James Ennis\ennisja01,23.002,F,us,California State University Long Beach
+231,2013,NBA,2,51,ORL,Romero Osby,,,,University of Oklahoma
+232,2013,NBA,2,52,MIN,Lorenzo Brown\brownlo01,22.311,G,us,North Carolina State University
+233,2013,NBA,2,53,IND,Colton Iverson\iversco01,24.004,C,us,Colorado State University
+234,2013,NBA,2,54,WAS,Arsalan Kazemi\kazemar01,23.072,F,ir,University of Oregon
+235,2013,NBA,2,55,MEM,Joffrey Lauvergne\lauvejo01,21.276,C-F,fr,
+236,2013,NBA,2,56,DET,Peyton Siva\sivape01,22.252,G,us,University of Louisville
+237,2013,NBA,2,57,PHO,Alex Oriakhi\oriakal01,23.012,F,us,University of Missouri
+238,2013,NBA,2,58,SAS,Deshaun Thomas\thomade01,21.308,F,us,Ohio State University
+239,2013,NBA,2,59,MIN,Bojan Dubljevic\dubljbo01,21.252,F-C,me,
+240,2013,NBA,2,60,MEM,Janis Timma\timmaja01,21,F,lv,
+241,2012,NBA,1,1,NOH,Anthony Davis\davisan02,19.114,F-C,us,University of Kentucky
+242,2012,NBA,1,2,CHA,Michael Kidd-Gilchrist\kiddgmi01,18.28,F,us,University of Kentucky
+243,2012,NBA,1,3,WAS,Bradley Beal\bealbr01,19.005,G,us,University of Florida
+244,2012,NBA,1,4,CLE,Dion Waiters\waitedi01,20.206,G,us,Syracuse University
+245,2012,NBA,1,5,SAC,Thomas Robinson\robinth01,21.109,F,us,University of Kansas
+246,2012,NBA,1,6,POR,Damian Lillard\lillada01,21.354,G,us,Weber State University
+247,2012,NBA,1,7,GSW,Harrison Barnes\barneha02,20.034,F,us,University of North Carolina
+248,2012,NBA,1,8,TOR,Terrence Ross\rosste01,21.149,F-G,us,University of Washington
+249,2012,NBA,1,9,DET,Andre Drummond\drumman01,18.327,C,us,University of Connecticut
+250,2012,NBA,1,10,NOH,Austin Rivers\riverau01,19.336,G,us,Duke University
+251,2012,NBA,1,11,POR,Meyers Leonard\leoname01,20.127,C-F,us,University of Illinois at Urbana-Champaign
+252,2012,NBA,1,12,HOU,Jeremy Lamb\lambje01,20.034,G-F,us,University of Connecticut
+253,2012,NBA,1,13,PHO,Kendall Marshall\marshke01,20.319,G,us,University of North Carolina
+254,2012,NBA,1,14,MIL,John Henson\hensojo01,21.188,C-F,us,University of North Carolina
+255,2012,NBA,1,15,PHI,Maurice Harkless\harklma01,19.053,F-G,us,St. John's University
+256,2012,NBA,1,16,HOU,Royce White\whitero03,21.085,F,us,Iowa State University
+257,2012,NBA,1,17,DAL,Tyler Zeller\zellety01,22.168,F-C,us,University of North Carolina
+258,2012,NBA,1,18,HOU,Terrence Jones\joneste01,20.176,F,us,University of Kentucky
+259,2012,NBA,1,19,ORL,Andrew Nicholson\nichoan01,22.208,F,ca,St. Bonaventure University
+260,2012,NBA,1,20,DEN,Evan Fournier\fournev01,19.247,G-F,fr,
+261,2012,NBA,1,21,BOS,Jared Sullinger\sullija01,20.121,F,us,Ohio State University
+262,2012,NBA,1,22,BOS,Fab Melo\melofa01,22.014,C,br,Syracuse University
+263,2012,NBA,1,23,ATL,John Jenkins\jenkijo01,21.12,G,us,Vanderbilt University
+264,2012,NBA,1,24,CLE,Jared Cunningham\cunnija01,21.043,G,us,Oregon State University
+265,2012,NBA,1,25,MEM,Tony Wroten\wroteto01,19.081,G,us,University of Washington
+266,2012,NBA,1,26,IND,Miles Plumlee\plumlmi01,23.306,C-F,us,Duke University
+267,2012,NBA,1,27,MIA,Arnett Moultrie\moultar01,21.228,F,us,Mississippi State University
+268,2012,NBA,1,28,OKC,Perry Jones\jonespe01,20.283,F,us,Baylor University
+269,2012,NBA,1,29,CHI,Marquis Teague\teaguma01,19.125,G,us,University of Kentucky
+270,2012,NBA,1,30,GSW,Festus Ezeli\ezelife01,22.256,C,ng,Vanderbilt University
+271,2012,NBA,2,31,CHA,Jeff Taylor\tayloje03,23.042,F,se,Vanderbilt University
+272,2012,NBA,2,32,WAS,Tomas Satoransky\satorto01,20.247,G,cz,
+273,2012,NBA,2,33,CLE,Bernard James\jamesbe01,27.148,C,us,Florida State University
+274,2012,NBA,2,34,CLE,Jae Crowder\crowdja01,21.363,F,us,Marquette University
+275,2012,NBA,2,35,GSW,Draymond Green\greendr01,22.122,F,us,Michigan State University
+276,2012,NBA,2,36,SAC,Orlando Johnson\johnsor01,23.115,G,us,University of California Santa Barbara
+277,2012,NBA,2,37,TOR,Quincy Acy\acyqu01,21.271,F,us,Baylor University
+278,2012,NBA,2,38,DEN,Quincy Miller\millequ01,19.227,F,us,Baylor University
+279,2012,NBA,2,39,DET,Khris Middleton\middlkh01,20.326,F-G,us,Texas A&M University
+280,2012,NBA,2,40,POR,Will Barton\bartowi01,21.179,G,us,University of Memphis
+281,2012,NBA,2,41,POR,Tyshawn Taylor\tayloty01,22.083,G,us,University of Kansas
+282,2012,NBA,2,42,MIL,Doron Lamb\lambdo01,20.24,G,us,University of Kentucky
+283,2012,NBA,2,43,ATL,Mike Scott\scottmi01,23.353,F,us,University of Virginia
+284,2012,NBA,2,44,DET,Kim English\engliki01,23.283,G,us,University of Missouri
+285,2012,NBA,2,45,PHI,Justin Hamilton\hamilju01,22.094,C,us,Louisiana State University
+286,2012,NBA,2,46,NOH,Darius Miller\milleda01,22.105,F,us,University of Kentucky
+287,2012,NBA,2,47,UTA,Kevin Murphy\murphke01,22.12,G,us,Tennessee Technological University
+288,2012,NBA,2,48,NYK,Kostas Papanikolaou\papanko01,21.338,F,gr,
+289,2012,NBA,2,49,ORL,Kyle O'Quinn\oquinky01,22.1,F-C,us,Norfolk State University
+290,2012,NBA,2,50,DEN,Izzet Turkyilmaz\turkyiz01,22.045,C-F,tr,
+291,2012,NBA,2,51,BOS,Kris Joseph\josepkr01,23.199,F,ca,Syracuse University
+292,2012,NBA,2,52,GSW,Ognjen Kuzmic\kuzmiog01,22.049,C,ba,
+293,2012,NBA,2,53,LAC,Furkan Aldemir\aldemfu01,20.329,F-C,tr,
+294,2012,NBA,2,54,PHI,Tornike Shengelia\shengto01,20.272,F,ge,
+295,2012,NBA,2,55,DAL,Darius Johnson-Odom\johnsda03,22.279,G,us,Marquette University
+296,2012,NBA,2,56,TOR,Tomislav Zubcic\zubcito01,22.178,F,hr,
+297,2012,NBA,2,57,NJN,Ilkan Karaman\karamil01,22.052,F,tr,
+298,2012,NBA,2,58,MIN,Robbie Hummel\hummero01,23.118,F,us,Purdue University
+299,2012,NBA,2,59,SAS,Marcus Denmon\denmoma01,22.106,G,us,University of Missouri
+300,2012,NBA,2,60,LAL,Robert Sacre\sacrero01,23.028,C,us,Gonzaga University
+301,2011,NBA,1,1,CLE,Kyrie Irving\irvinky01,19.096,G,au,Duke University
+302,2011,NBA,1,2,MIN,Derrick Williams\willide02,20.034,F,us,University of Arizona
+303,2011,NBA,1,3,UTA,Enes Kanter\kanteen01,19.038,C,ch,
+304,2011,NBA,1,4,CLE,Tristan Thompson\thomptr01,20.107,F-C,ca,University of Texas at Austin
+305,2011,NBA,1,5,TOR,Jonas Valanciunas\valanjo01,19.052,C,lt,
+306,2011,NBA,1,6,WAS,Jan Vesely\veselja01,21.065,F,cz,
+307,2011,NBA,1,7,SAC,Bismack Biyombo\biyombi01,18.303,C-F,cd,
+308,2011,NBA,1,8,DET,Brandon Knight\knighbr03,19.208,G,us,University of Kentucky
+309,2011,NBA,1,9,CHA,Kemba Walker\walkeke02,21.051,G,us,University of Connecticut
+310,2011,NBA,1,10,MIL,Jimmer Fredette\fredeji01,22.123,G,us,Brigham Young University
+311,2011,NBA,1,11,GSW,Klay Thompson\thompkl01,21.14,G-F,us,Washington State University
+312,2011,NBA,1,12,UTA,Alec Burks\burksal01,19.343,G,us,University of Colorado
+313,2011,NBA,1,13,PHO,Markieff Morris\morrima02,21.299,F,us,University of Kansas
+314,2011,NBA,1,14,HOU,Marcus Morris\morrima03,21.299,F,us,University of Kansas
+315,2011,NBA,1,15,IND,Kawhi Leonard\leonaka01,19.364,F,us,San Diego State University
+316,2011,NBA,1,16,PHI,Nikola Vucevic\vucevni01,20.247,C,ch,University of Southern California
+317,2011,NBA,1,17,NYK,Iman Shumpert\shumpim01,21.002,G,us,Georgia Institute of Technology
+318,2011,NBA,1,18,WAS,Chris Singleton\singlch01,21.219,F,us,Florida State University
+319,2011,NBA,1,19,CHA,Tobias Harris\harrito02,18.347,F,us,University of Tennessee
+320,2011,NBA,1,20,MIN,Donatas Motiejunas\motiedo01,20.281,F-C,lt,
+321,2011,NBA,1,21,POR,Nolan Smith\smithno01,22.338,G,us,Duke University
+322,2011,NBA,1,22,DEN,Kenneth Faried\farieke01,21.221,F,us,Morehead State University
+323,2011,NBA,1,23,HOU,Nikola Mirotic\mirotni01,20.137,F,me,
+324,2011,NBA,1,24,OKC,Reggie Jackson\jacksre01,21.073,G,it,Boston College
+325,2011,NBA,1,25,BOS,MarShon Brooks\brookma01,22.153,G-F,us,Providence College
+326,2011,NBA,1,26,DAL,Jordan Hamilton\hamiljo02,20.265,G-F,us,University of Texas at Austin
+327,2011,NBA,1,27,NJN,JaJuan Johnson\johnsja02,22.14,F,us,Purdue University
+328,2011,NBA,1,28,CHI,Norris Cole\coleno01,22.258,G,us,Cleveland State University
+329,2011,NBA,1,29,SAS,Cory Joseph\josepco01,19.312,G,ca,University of Texas at Austin
+330,2011,NBA,1,30,CHI,Jimmy Butler\butleji01,21.287,F-G,us,Marquette University
+331,2011,NBA,2,31,MIA,Bojan Bogdanovic\bogdabo02,22.071,G-F,ba,
+332,2011,NBA,2,32,CLE,Justin Harper\harpeju01,21.302,F,us,University of Richmond
+333,2011,NBA,2,33,DET,Kyle Singler\singlky01,23.055,F,us,Duke University
+334,2011,NBA,2,34,WAS,Shelvin Mack\macksh01,21.067,G,us,Butler University
+335,2011,NBA,2,35,SAC,Tyler Honeycutt\honeyty01,20.348,F,us,University of California Los Angeles
+336,2011,NBA,2,36,NJN,Jordan Williams\willijo03,20.26,F,us,University of Maryland
+337,2011,NBA,2,37,LAC,Trey Thompkins\thomptr02,21.039,F,us,University of Georgia
+338,2011,NBA,2,38,HOU,Chandler Parsons\parsoch01,22.246,F,us,University of Florida
+339,2011,NBA,2,39,CHA,Jeremy Tyler\tylerje01,20.007,C,us,
+340,2011,NBA,2,40,MIL,Jon Leuer\leuerjo01,22.045,F,us,University of Wisconsin
+341,2011,NBA,2,41,LAL,Darius Morris\morrida01,20.176,G,us,University of Michigan
+342,2011,NBA,2,42,IND,Davis Bertans\bertada01,18.227,F,lv,
+343,2011,NBA,2,43,CHI,Malcolm Lee\leema01,21.037,G,us,University of California Los Angeles
+344,2011,NBA,2,44,GSW,Charles Jenkins\jenkich01,22.12,G,us,Hofstra University
+345,2011,NBA,2,45,NOH,Josh Harrellson\harrejo01,22.136,C,us,University of Kentucky
+346,2011,NBA,2,46,LAL,Andrew Goudelock\goudean01,22.203,G,us,College of Charleston
+347,2011,NBA,2,47,LAC,Travis Leslie\leslitr01,21.091,G,us,University of Georgia
+348,2011,NBA,2,48,ATL,Keith Benson\bensoke02,22.319,C,us,Oakland University
+349,2011,NBA,2,49,MEM,Josh Selby\selbyjo01,20.093,G,us,University of Kansas
+350,2011,NBA,2,50,PHI,Lavoy Allen\allenla01,22.144,F-C,us,Temple University
+351,2011,NBA,2,51,POR,Jon Diebler\diebljo01,23.006,G,us,Ohio State University
+352,2011,NBA,2,52,DET,Vernon Macklin\macklve01,24.282,F,us,University of Florida
+353,2011,NBA,2,53,ORL,DeAndre Liggins\liggide01,23.089,G,us,University of Kentucky
+354,2011,NBA,2,54,CLE,Milan Macvan\macvami01,21.224,F-C,hr,
+355,2011,NBA,2,55,BOS,E'Twaun Moore\mooreet01,22.12,G,us,Purdue University
+356,2011,NBA,2,56,LAL,Chukwudiebere Maduabum\maduach01,20.101,F,ng,
+357,2011,NBA,2,57,DAL,Targuy Ngombo,,,,
+358,2011,NBA,2,58,LAL,Ater Majok\majokat01,23.36,F-C,sd,
+359,2011,NBA,2,59,SAS,Adam Hanga\hangaad01,22.077,G,hu,
+360,2011,NBA,2,60,SAC,Isaiah Thomas\thomais02,22.141,G,us,University of Washington
+361,2010,NBA,1,1,WAS,John Wall\walljo01,19.296,G,us,University of Kentucky
+362,2010,NBA,1,2,PHI,Evan Turner\turneev01,21.245,G,us,Ohio State University
+363,2010,NBA,1,3,NJN,Derrick Favors\favorde01,18.349,F-C,us,Georgia Institute of Technology
+364,2010,NBA,1,4,MIN,Wesley Johnson\johnswe01,22.354,F-G,us,Syracuse University
+365,2010,NBA,1,5,SAC,DeMarcus Cousins\couside01,19.32,C-F,us,University of Kentucky
+366,2010,NBA,1,6,GSW,Ekpe Udoh\udohek01,23.041,C-F,us,Baylor University
+367,2010,NBA,1,7,DET,Greg Monroe\monrogr01,20.025,C-F,us,Georgetown University
+368,2010,NBA,1,8,LAC,Al-Farouq Aminu\aminual01,19.281,F,us,Wake Forest University
+369,2010,NBA,1,9,UTA,Gordon Hayward\haywago01,20.098,F-G,us,Butler University
+370,2010,NBA,1,10,IND,Paul George\georgpa01,20.058,F,us,California State University Fresno
+371,2010,NBA,1,11,NOH,Cole Aldrich\aldrico01,21.241,C,us,University of Kansas
+372,2010,NBA,1,12,MEM,Xavier Henry\henryxa01,19.106,G,be,University of Kansas
+373,2010,NBA,1,13,TOR,Ed Davis\davised01,21.024,F,us,University of North Carolina
+374,2010,NBA,1,14,HOU,Patrick Patterson\pattepa01,21.107,F,us,University of Kentucky
+375,2010,NBA,1,15,MIL,Larry Sanders\sandela01,21.22,C-F,us,Virginia Commonwealth University
+376,2010,NBA,1,16,MIN,Luke Babbitt\babbilu01,21.009,F,us,University of Nevada Reno
+377,2010,NBA,1,17,CHI,Kevin Seraphin\serapke01,20.204,F,gf,
+378,2010,NBA,1,18,OKC,Eric Bledsoe\bledser01,20.202,G,us,University of Kentucky
+379,2010,NBA,1,19,BOS,Avery Bradley\bradlav01,19.215,G,us,University of Texas at Austin
+380,2010,NBA,1,20,SAS,James Anderson\anderja01,21.096,G-F,us,Oklahoma State University
+381,2010,NBA,1,21,OKC,Craig Brackins\brackcr01,22.264,F,us,Iowa State University
+382,2010,NBA,1,22,POR,Elliot Williams\williel01,21.009,G,us,University of Memphis
+383,2010,NBA,1,23,MIN,Trevor Booker\booketr01,22.217,F,us,Clemson University
+384,2010,NBA,1,24,ATL,Damion James\jamesda01,22.266,G-F,us,University of Texas at Austin
+385,2010,NBA,1,25,MEM,Dominique Jones\jonesdo02,21.257,G,us,University of South Florida
+386,2010,NBA,1,26,OKC,Quincy Pondexter\pondequ01,22.111,G-F,us,University of Washington
+387,2010,NBA,1,27,NJN,Jordan Crawford\crawfjo02,21.249,G,us,Xavier University
+388,2010,NBA,1,28,MEM,Greivis Vasquez\vasqugr01,23.165,G,ve,University of Maryland
+389,2010,NBA,1,29,ORL,Daniel Orton\ortonda01,19.327,C-F,us,University of Kentucky
+390,2010,NBA,1,30,WAS,Lazar Hayward\haywala01,23.216,F,us,Marquette University
+391,2010,NBA,2,31,NJN,Tibor Pleiss\pleisti01,20.239,C,de,
+392,2010,NBA,2,32,MIA,Dexter Pittman\pittmde01,22.119,C,us,University of Texas at Austin
+393,2010,NBA,2,33,SAC,Hassan Whiteside\whiteha01,21.016,C,us,Marshall University
+394,2010,NBA,2,34,POR,Armon Johnson\johnsar02,21.126,G,us,University of Nevada Reno
+395,2010,NBA,2,35,WAS,Nemanja Bjelica\bjeline01,22.051,F,rs,
+396,2010,NBA,2,36,DET,Terrico White,,,,University of Mississippi
+397,2010,NBA,2,37,MIL,Darington Hobson\hobsoda01,22.274,G,us,University of New Mexico
+398,2010,NBA,2,38,NYK,Andy Rautins\rautian01,23.24,G,us,Syracuse University
+399,2010,NBA,2,39,NYK,Landry Fields\fieldla01,22.002,F,us,Stanford University
+400,2010,NBA,2,40,IND,Lance Stephenson\stephla01,19.297,G-F,us,University of Cincinnati
+401,2010,NBA,2,41,MIA,Jarvis Varnado\varnaja01,22.12,F,us,Mississippi State University
+402,2010,NBA,2,42,MIA,Da'Sean Butler,,,,West Virginia University
+403,2010,NBA,2,43,LAL,Devin Ebanks\ebankde01,20.244,F,us,West Virginia University
+404,2010,NBA,2,44,MIL,Jerome Jordan\jordaje01,23.274,C,jm,University of Tulsa
+405,2010,NBA,2,45,MIN,Paulao Prestes\prestpa01,22.135,C,br,
+406,2010,NBA,2,46,PHO,Gani Lawal\lawalga01,21.234,F,us,Georgia Institute of Technology
+407,2010,NBA,2,47,MIL,Tiny Gallon,,,,University of Oklahoma
+408,2010,NBA,2,48,MIA,Latavious Williams\willila01,21.092,F,us,
+409,2010,NBA,2,49,SAS,Ryan Richards\richary01,19.066,F-C,gb,
+410,2010,NBA,2,50,DAL,Solomon Alabi\alabiso01,22.1,C,ng,Florida State University
+411,2010,NBA,2,51,OKC,Magnum Rolle,,,,Louisiana Tech University
+412,2010,NBA,2,52,BOS,Luke Harangody\haranlu01,22.179,F,us,University of Notre Dame
+413,2010,NBA,2,53,ATL,Pape Sy\sypa01,22.085,F,fr,
+414,2010,NBA,2,54,LAC,Willie Warren\warrewi01,20.25,G,us,University of Oklahoma
+415,2010,NBA,2,55,UTA,Jeremy Evans\evansje01,22.249,F,us,Western Kentucky University
+416,2010,NBA,2,56,MIN,Hamady N'Diaye\ndiayha01,23.169,C,sn,Rutgers University
+417,2010,NBA,2,57,IND,Ryan Reid\reidry01,23.243,F,us,Florida State University
+418,2010,NBA,2,58,LAL,Derrick Caracter\caracde01,22.056,F,us,University of Texas at El Paso
+419,2010,NBA,2,59,ORL,Stanley Robinson,,,,University of Connecticut
+420,2010,NBA,2,60,PHO,Dwayne Collins\collidw01,22.077,F,us,University of Miami
+421,2009,NBA,1,1,LAC,Blake Griffin\griffbl01,20.106,F,us,University of Oklahoma
+422,2009,NBA,1,2,MEM,Hasheem Thabeet\thabeha01,22.135,C,tz,University of Connecticut
+423,2009,NBA,1,3,OKC,James Harden\hardeja01,19.308,G,us,Arizona State University
+424,2009,NBA,1,4,SAC,Tyreke Evans\evansty01,19.284,G-F,us,University of Memphis
+425,2009,NBA,1,5,MIN,Ricky Rubio\rubiori01,18.252,G,es,
+426,2009,NBA,1,6,MIN,Jonny Flynn\flynnjo01,20.144,G,us,Syracuse University
+427,2009,NBA,1,7,GSW,Stephen Curry\curryst01,21.108,G,us,Davidson College
+428,2009,NBA,1,8,NYK,Jordan Hill\hilljo01,21.339,C-F,us,University of Arizona
+429,2009,NBA,1,9,TOR,DeMar DeRozan\derozde01,19.327,G,us,University of Southern California
+430,2009,NBA,1,10,MIL,Brandon Jennings\jennibr01,19.28,G,us,
+431,2009,NBA,1,11,NJN,Terrence Williams\willite01,22.003,F,us,University of Louisville
+432,2009,NBA,1,12,CHA,Gerald Henderson\hendege02,21.204,G,us,Duke University
+433,2009,NBA,1,13,IND,Tyler Hansbrough\hansbty01,23.24,F,us,University of North Carolina
+434,2009,NBA,1,14,PHO,Earl Clark\clarkea01,21.165,F,us,University of Louisville
+435,2009,NBA,1,15,DET,Austin Daye\dayeau01,21.025,F,us,Gonzaga University
+436,2009,NBA,1,16,CHI,James Johnson\johnsja01,22.131,F,us,Wake Forest University
+437,2009,NBA,1,17,PHI,Jrue Holiday\holidjr01,19.018,G,us,University of California Los Angeles
+438,2009,NBA,1,18,MIN,Ty Lawson\lawsoty01,21.24,G,us,University of North Carolina
+439,2009,NBA,1,19,ATL,Jeff Teague\teaguje01,21.02,G,us,Wake Forest University
+440,2009,NBA,1,20,UTA,Eric Maynor\maynoer01,22.02,G,us,Virginia Commonwealth University
+441,2009,NBA,1,21,NOH,Darren Collison\collida01,21.312,G,us,University of California Los Angeles
+442,2009,NBA,1,22,POR,Victor Claver\clavevi01,20.304,F,es,
+443,2009,NBA,1,23,SAC,Omri Casspi\casspom01,21.008,F,il,
+444,2009,NBA,1,24,DAL,Byron Mullens\mulleby01,20.136,C,us,Ohio State University
+445,2009,NBA,1,25,OKC,Rodrigue Beaubois\beaubro01,21.127,G,gp,
+446,2009,NBA,1,26,CHI,Taj Gibson\gibsota01,24.007,F,us,University of Southern California
+447,2009,NBA,1,27,MEM,DeMarre Carroll\carrode01,22.339,F,us,University of Missouri
+448,2009,NBA,1,28,MIN,Wayne Ellington\ellinwa01,21.245,G,us,University of North Carolina
+449,2009,NBA,1,29,LAL,Toney Douglas\douglto01,23.107,G,us,Florida State University
+450,2009,NBA,1,30,CLE,Christian Eyenga\eyengch01,20.008,F,cd,
+451,2009,NBA,2,31,SAC,Jeff Pendergraph\pendeje02,22.063,F,us,Arizona State University
+452,2009,NBA,2,32,WAS,Jermaine Taylor\tayloje02,22.205,G,us,University of Central Florida
+453,2009,NBA,2,33,POR,Dante Cunningham\cunnida01,22.07,F,us,Villanova University
+454,2009,NBA,2,34,DEN,Sergio Llull\llullse01,21.228,G,es,
+455,2009,NBA,2,35,DET,DaJuan Summers\summeda01,21.158,F,us,Georgetown University
+456,2009,NBA,2,36,MEM,Sam Young\youngsa01,24.03,F,us,University of Pittsburgh
+457,2009,NBA,2,37,SAS,DeJuan Blair\blairde01,20.069,F-C,us,University of Pittsburgh
+458,2009,NBA,2,38,POR,Jon Brockman\brockjo01,22.103,F,us,University of Washington
+459,2009,NBA,2,39,DET,Jonas Jerebko\jerebjo01,22.121,F,se,
+460,2009,NBA,2,40,CHA,Derrick Brown\brownde04,21.296,F,us,Xavier University
+461,2009,NBA,2,41,MIL,Jodie Meeks\meeksjo01,21.314,G,us,University of Kentucky
+462,2009,NBA,2,42,LAL,Patrick Beverley\beverpa01,20.353,G,us,University of Arkansas
+463,2009,NBA,2,43,MIA,Marcus Thornton\thornma01,22.026,G,us,Louisiana State University
+464,2009,NBA,2,44,DET,Chase Budinger\budinch01,21.039,F,us,University of Arizona
+465,2009,NBA,2,45,MIN,Nick Calathes\calatni01,20.143,G,us,University of Florida
+466,2009,NBA,2,46,CLE,Danny Green\greenda02,22.009,G-F,us,University of North Carolina
+467,2009,NBA,2,47,MIN,Henk Norel\norelhe01,21.287,F-C,nl,
+468,2009,NBA,2,48,PHO,Taylor Griffin\griffta01,23.074,F,us,University of Oklahoma
+469,2009,NBA,2,49,ATL,Sergiy Gladyr\gladyse01,19.256,G,ua,
+470,2009,NBA,2,50,UTA,Goran Suton,,,,Michigan State University
+471,2009,NBA,2,51,SAS,Jack McClinton,,,,University of Miami
+472,2009,NBA,2,52,IND,A.J. Price\priceaj01,22.267,G,us,University of Connecticut
+473,2009,NBA,2,53,SAS,Nando De Colo\decolna01,22.008,G,fr,
+474,2009,NBA,2,54,CHA,Robert Vaden,,,,University of Alabama at Birmingham
+475,2009,NBA,2,55,POR,Patrick Mills\millspa02,20.323,G,au,Saint Mary's College of California
+476,2009,NBA,2,56,DAL,Ahmad Nivins,,,,Saint Joseph's University
+477,2009,NBA,2,57,PHO,Emir Preldzic\preldem01,21.298,F-G,ba,
+478,2009,NBA,2,58,BOS,Lester Hudson\hudsole01,24.328,G,us,University of Tennessee at Martin
+479,2009,NBA,2,59,LAL,Chinemelu Elonu\elonuch01,22.112,C-F,ng,Texas A&M University
+480,2009,NBA,2,60,MIA,Robert Dozier,,,,University of Memphis
+481,2008,NBA,1,1,CHI,Derrick Rose\rosede01,19.27,G,us,University of Memphis
+482,2008,NBA,1,2,MIA,Michael Beasley\beaslmi01,19.173,F,us,Kansas State University
+483,2008,NBA,1,3,MIN,O.J. Mayo\mayooj01,20.239,G,us,University of Southern California
+484,2008,NBA,1,4,SEA,Russell Westbrook\westbru01,19.231,G,us,University of California Los Angeles
+485,2008,NBA,1,5,MEM,Kevin Love\loveke01,19.297,F,us,University of California Los Angeles
+486,2008,NBA,1,6,NYK,Danilo Gallinari\gallida01,19.327,F,it,
+487,2008,NBA,1,7,LAC,Eric Gordon\gordoer01,19.188,G,us,Indiana University
+488,2008,NBA,1,8,MIL,Joe Alexander\alexajo01,21.188,F,tw,West Virginia University
+489,2008,NBA,1,9,CHA,D.J. Augustin\augusdj01,20.234,G,us,University of Texas at Austin
+490,2008,NBA,1,10,NJN,Brook Lopez\lopezbr01,20.091,C,us,Stanford University
+491,2008,NBA,1,11,IND,Jerryd Bayless\bayleje01,19.315,G,us,University of Arizona
+492,2008,NBA,1,12,SAC,Jason Thompson\thompja02,21.346,F-C,us,Rider University
+493,2008,NBA,1,13,POR,Brandon Rush\rushbr01,22.36,G-F,us,University of Kansas
+494,2008,NBA,1,14,GSW,Anthony Randolph\randoan01,18.351,F,de,Louisiana State University
+495,2008,NBA,1,15,PHO,Robin Lopez\lopezro01,20.091,C,us,Stanford University
+496,2008,NBA,1,16,PHI,Marreese Speights\speigma01,20.332,C-F,us,University of Florida
+497,2008,NBA,1,17,TOR,Roy Hibbert\hibbero01,21.203,C,us,Georgetown University
+498,2008,NBA,1,18,WAS,JaVale McGee\mcgeeja01,20.164,C,us,University of Nevada Reno
+499,2008,NBA,1,19,CLE,J.J. Hickson\hicksjj01,19.3,F-C,us,North Carolina State University
+500,2008,NBA,1,20,CHA,Alexis Ajinca\ajincal01,20.056,C,fr,
+501,2008,NBA,1,21,NJN,Ryan Anderson\anderry01,20.056,F,us,University of California
+502,2008,NBA,1,22,ORL,Courtney Lee\leeco01,22.272,G,us,Western Kentucky University
+503,2008,NBA,1,23,UTA,Kosta Koufos\koufoko01,19.127,C,us,Ohio State University
+504,2008,NBA,1,24,SEA,Serge Ibaka\ibakase01,18.286,F-C,cg,
+505,2008,NBA,1,25,HOU,Nicolas Batum\batumni01,19.199,F-G,fr,
+506,2008,NBA,1,26,SAS,George Hill\hillge01,22.059,G,us,Indiana University-Purdue University Indianapolis
+507,2008,NBA,1,27,NOH,Darrell Arthur\arthuda01,20.098,F,us,University of Kansas
+508,2008,NBA,1,28,MEM,Donte Greene\greendo01,20.131,F,de,Syracuse University
+509,2008,NBA,1,29,DET,D.J. White\whitedj01,21.305,F,us,Indiana University
+510,2008,NBA,1,30,BOS,J.R. Giddens\giddejr01,23.139,G,us,University of New Mexico
+511,2008,NBA,2,31,MIN,Nikola Pekovic\pekovni01,22.18,C,me,
+512,2008,NBA,2,32,SEA,Walter Sharpe\sharpwa01,21.349,F,us,University of Alabama at Birmingham
+513,2008,NBA,2,33,POR,Joey Dorsey\dorsejo01,24.199,F,us,University of Memphis
+514,2008,NBA,2,34,MIN,Mario Chalmers\chalmma01,22.044,G,us,University of Kansas
+515,2008,NBA,2,35,LAC,DeAndre Jordan\jordade01,19.345,C,us,Texas A&M University
+516,2008,NBA,2,36,POR,Omer Asik\asikom01,21.363,C,tr,
+517,2008,NBA,2,37,MIL,Luc Mbah a Moute\mbahalu01,21.296,F,cm,University of California Los Angeles
+518,2008,NBA,2,38,CHA,Kyle Weaver\weaveky01,22.134,G,us,Washington State University
+519,2008,NBA,2,39,CHI,Sonny Weems\weemsso01,21.359,G-F,us,University of Arkansas
+520,2008,NBA,2,40,NJN,Chris Douglas-Roberts\douglch01,21.175,G,us,University of Memphis
+521,2008,NBA,2,41,IND,Nathan Jawai\jawaina01,21.265,C-F,au,
+522,2008,NBA,2,42,SAC,Sean Singletary\singlse01,22.299,G,us,University of Virginia
+523,2008,NBA,2,43,SAC,Patrick Ewing\ewingpa02,24.043,F,us,Georgetown University
+524,2008,NBA,2,44,UTA,Ante Tomic\tomican01,21.135,C,hr,
+525,2008,NBA,2,45,SAS,Goran Dragic\dragigo01,22.057,G,si,
+526,2008,NBA,2,46,SEA,Trent Plaisted,,,,Brigham Young University Hawaii
+527,2008,NBA,2,47,WAS,Bill Walker\walkebi01,20.266,F,us,Kansas State University
+528,2008,NBA,2,48,PHO,Malik Hairston\hairsma01,21.129,G,us,University of Oregon
+529,2008,NBA,2,49,GSW,Richard Hendrix,,,,University of Alabama
+530,2008,NBA,2,50,SEA,DeVon Hardin\hardide01,21.329,C,us,University of California
+531,2008,NBA,2,51,DAL,Shan Foster,,,,Vanderbilt University
+532,2008,NBA,2,52,MIA,Darnell Jackson\jacksda01,22.237,F,us,University of Kansas
+533,2008,NBA,2,53,UTA,Tadija Dragicevic\dragita01,22.155,F,rs,
+534,2008,NBA,2,54,HOU,Maarty Leunen\leunema01,22.302,F,us,University of Oregon
+535,2008,NBA,2,55,POR,Mike Taylor\taylomi01,22.162,G,us,Iowa State University
+536,2008,NBA,2,56,SEA,Sasha Kaun\kaunsa01,23.055,C,ru,University of Kansas
+537,2008,NBA,2,57,SAS,James Gist,,,,University of Maryland
+538,2008,NBA,2,58,LAL,Joe Crawford\crawfjo01,22.015,F,us,University of Kentucky
+539,2008,NBA,2,59,DET,Deron Washington,,,,Virginia Polytechnic Institute and State University
+540,2008,NBA,2,60,BOS,Semih Erden\erdense01,21.339,C,tr,
+541,2007,NBA,1,1,POR,Greg Oden\odengr01,19.162,C,us,Ohio State University
+542,2007,NBA,1,2,SEA,Kevin Durant\duranke01,18.276,F-G,us,University of Texas at Austin
+543,2007,NBA,1,3,ATL,Al Horford\horfoal01,21.03,C-F,do,University of Florida
+544,2007,NBA,1,4,MEM,Mike Conley\conlemi01,19.265,G,us,Ohio State University
+545,2007,NBA,1,5,BOS,Jeff Green\greenje02,20.309,F,us,Georgetown University
+546,2007,NBA,1,6,MIL,Yi Jianlian\jianlyi01,19.249,F,cn,
+547,2007,NBA,1,7,MIN,Corey Brewer\breweco01,21.12,F-G,us,University of Florida
+548,2007,NBA,1,8,CHA,Brandan Wright\wrighbr03,19.271,F-C,us,University of North Carolina
+549,2007,NBA,1,9,CHI,Joakim Noah\noahjo01,22.128,C,us,University of Florida
+550,2007,NBA,1,10,SAC,Spencer Hawes\hawessp01,19.065,C-F,us,University of Washington
+551,2007,NBA,1,11,ATL,Acie Law\lawac01,22.159,G,us,Texas A&M University
+552,2007,NBA,1,12,PHI,Thaddeus Young\youngth01,19.011,F,us,Georgia Institute of Technology
+553,2007,NBA,1,13,NOK,Julian Wright\wrighju01,20.044,F,us,University of Kansas
+554,2007,NBA,1,14,LAC,Al Thornton\thornal01,23.209,F,us,Florida State University
+555,2007,NBA,1,15,DET,Rodney Stuckey\stuckro01,21.073,G,us,Eastern Washington University
+556,2007,NBA,1,16,WAS,Nick Young\youngni01,22.032,G-F,us,University of Southern California
+557,2007,NBA,1,17,NJN,Sean Williams\willise01,20.293,C-F,us,Boston College
+558,2007,NBA,1,18,GSW,Marco Belinelli\belinma01,21.1,G-F,it,
+559,2007,NBA,1,19,LAL,Javaris Crittenton\crittja01,19.184,G,us,Georgia Institute of Technology
+560,2007,NBA,1,20,MIA,Jason Smith\smithja02,21.123,F-C,us,Colorado State University
+561,2007,NBA,1,21,PHI,Daequan Cook\cookda02,20.066,G,us,Ohio State University
+562,2007,NBA,1,22,CHA,Jared Dudley\dudleja01,21.358,F-G,us,Boston College
+563,2007,NBA,1,23,NYK,Wilson Chandler\chandwi01,20.054,F,us,DePaul University
+564,2007,NBA,1,24,PHO,Rudy Fernandez\fernaru01,22.09,G,es,
+565,2007,NBA,1,25,UTA,Morris Almond\almonmo01,22.151,G,us,Rice University
+566,2007,NBA,1,26,HOU,Aaron Brooks\brookaa01,22.17,G,us,University of Oregon
+567,2007,NBA,1,27,DET,Arron Afflalo\afflaar01,21.261,G,us,University of California Los Angeles
+568,2007,NBA,1,28,SAS,Tiago Splitter\splitti01,22.183,F-C,br,
+569,2007,NBA,1,29,PHO,Alando Tucker\tuckeal02,23.143,F,us,University of Wisconsin
+570,2007,NBA,1,30,PHI,Petteri Koponen\koponpe01,19.08,G,fi,
+571,2007,NBA,2,31,SEA,Carl Landry\landrca01,23.288,F,us,Purdue University
+572,2007,NBA,2,32,BOS,Gabe Pruitt\pruitga01,21.075,G,us,University of Southern California
+573,2007,NBA,2,33,SAS,Marcus Williams\willima04,20.227,F,us,University of Arizona
+574,2007,NBA,2,34,DAL,Nick Fazekas\fazekni01,22.016,F,us,University of Nevada Reno
+575,2007,NBA,2,35,SEA,Glen Davis\davisgl01,21.183,F-C,us,Louisiana State University
+576,2007,NBA,2,36,GSW,Jermareo Davidson\davidje01,22.23,F,us,University of Alabama
+577,2007,NBA,2,37,POR,Josh McRoberts\mcrobjo01,20.125,F,us,Duke University
+578,2007,NBA,2,38,PHI,Kyrylo Fesenko\fesenky01,20.191,C,ua,
+579,2007,NBA,2,39,MIA,Stanko Barac\baracst01,20.323,C,ba,
+580,2007,NBA,2,40,LAL,Sun Yue\yuesu01,21.239,G,cn,
+581,2007,NBA,2,41,MIN,Chris Richard\richach01,22.19,F,us,University of Florida
+582,2007,NBA,2,42,POR,Derrick Byars\byarsde01,23.069,F,us,Vanderbilt University
+583,2007,NBA,2,43,NOK,Adam Haluska,,,,University of Iowa
+584,2007,NBA,2,44,ORL,Reyshawn Terry,,,,University of North Carolina
+585,2007,NBA,2,45,LAC,Jared Jordan,,,,Marist College
+586,2007,NBA,2,46,GSW,Stephane Lasme\lasmest01,24.199,F,ga,University of Massachusetts Amherst
+587,2007,NBA,2,47,WAS,Dominic McGuire\mcguido01,21.256,F,us,California State University Fresno
+588,2007,NBA,2,48,LAL,Marc Gasol\gasolma01,22.155,C,es,
+589,2007,NBA,2,49,CHI,Aaron Gray\grayaa01,22.208,C,us,University of Pittsburgh
+590,2007,NBA,2,50,DAL,Renaldas Seibutis\seibure01,21.345,G,lt,
+591,2007,NBA,2,51,CHI,JamesOn Curry\curryja01,21.177,G,us,Oklahoma State University
+592,2007,NBA,2,52,POR,Taurean Green\greenta01,20.217,G,us,University of Florida
+593,2007,NBA,2,53,POR,Demetris Nichols\nichode01,22.302,F,us,Syracuse University
+594,2007,NBA,2,54,HOU,Brad Newley\newlebr01,22.135,F-G,au,
+595,2007,NBA,2,55,UTA,Herbert Hill,,,,Providence College
+596,2007,NBA,2,56,MIL,Ramon Sessions\sessira01,21.083,G,us,University of Nevada Reno
+597,2007,NBA,2,57,DET,Sammy Mejia,,,,DePaul University
+598,2007,NBA,2,58,SAS,Giorgos Printezis\printgi01,22.131,F,gr,
+599,2007,NBA,2,59,PHO,D.J. Strawberry\strawdj01,22.018,G,us,University of Maryland
+600,2007,NBA,2,60,DAL,Milovan Rakovic\rakovmi01,22.134,C,rs,
+601,2006,NBA,1,1,TOR,Andrea Bargnani\bargnan01,20.25,F-C,it,
+602,2006,NBA,1,2,CHI,LaMarcus Aldridge\aldrila01,20.349,F-C,us,University of Texas at Austin
+603,2006,NBA,1,3,CHA,Adam Morrison\morriad01,21.349,F,us,Gonzaga University
+604,2006,NBA,1,4,POR,Tyrus Thomas\thomaty01,19.32,F,us,Louisiana State University
+605,2006,NBA,1,5,ATL,Shelden Williams\willish02,22.256,F,us,Duke University
+606,2006,NBA,1,6,MIN,Brandon Roy\roybr01,21.345,G,us,University of Washington
+607,2006,NBA,1,7,BOS,Randy Foye\foyera01,22.283,G,us,Villanova University
+608,2006,NBA,1,8,HOU,Rudy Gay\gayru01,19.32,F,us,University of Connecticut
+609,2006,NBA,1,9,GSW,Patrick O'Bryant\obryapa01,20.013,C,us,Bradley University
+610,2006,NBA,1,10,SEA,Mouhamed Sene\senesa01,20.052,C-F,sn,
+611,2006,NBA,1,11,ORL,J.J. Redick\redicjj01,22.009,G,us,Duke University
+612,2006,NBA,1,12,NOK,Hilton Armstrong\armsthi01,21.234,F-C,us,University of Connecticut
+613,2006,NBA,1,13,PHI,Thabo Sefolosha\sefolth01,22.062,G-F,ch,
+614,2006,NBA,1,14,UTA,Ronnie Brewer\brewero02,21.105,G-F,us,University of Arkansas
+615,2006,NBA,1,15,NOK,Cedric Simmons\simmoce01,20.181,F,us,North Carolina State University
+616,2006,NBA,1,16,CHI,Rodney Carney\carnero01,22.079,F,us,University of Memphis
+617,2006,NBA,1,17,IND,Shawne Williams\willish03,20.137,F,us,University of Memphis
+618,2006,NBA,1,18,WAS,Oleksiy Pecherov\pecheol01,20.207,C,ua,
+619,2006,NBA,1,19,SAC,Quincy Douby\doubyqu01,22.048,G,us,Rutgers University
+620,2006,NBA,1,20,NYK,Renaldo Balkman\balkmre01,21.354,F,us,University of South Carolina
+621,2006,NBA,1,21,PHO,Rajon Rondo\rondora01,20.131,G,us,University of Kentucky
+622,2006,NBA,1,22,NJN,Marcus Williams\willima03,20.212,G,us,University of Connecticut
+623,2006,NBA,1,23,NJN,Josh Boone\boonejo01,21.224,F-C,us,University of Connecticut
+624,2006,NBA,1,24,MEM,Kyle Lowry\lowryky01,20.1,G,us,Villanova University
+625,2006,NBA,1,25,CLE,Shannon Brown\brownsh01,20.216,G,us,Michigan State University
+626,2006,NBA,1,26,LAL,Jordan Farmar\farmajo01,19.215,G,us,University of California Los Angeles
+627,2006,NBA,1,27,PHO,Sergio Rodriguez\rodrise01,20.021,G,es,
+628,2006,NBA,1,28,DAL,Maurice Ager\agerma01,22.145,G,us,Michigan State University
+629,2006,NBA,1,29,NYK,Mardy Collins\collima01,21.333,G,us,Temple University
+630,2006,NBA,1,30,POR,Joel Freeland\freeljo01,19.146,F-C,gb,
+631,2006,NBA,2,31,POR,James White\whiteja02,23.256,G-F,us,University of Cincinnati
+632,2006,NBA,2,32,HOU,Steve Novak\novakst01,23.021,F,us,Marquette University
+633,2006,NBA,2,33,ATL,Solomon Jones\jonesso01,21.352,F,us,University of South Florida
+634,2006,NBA,2,34,LAC,Paul Davis\davispa01,21.347,C,us,Michigan State University
+635,2006,NBA,2,35,TOR,P.J. Tucker\tuckepj01,21.059,F,us,University of Texas at Austin
+636,2006,NBA,2,36,MIN,Craig Smith\smithcr01,22.236,F,us,Boston College
+637,2006,NBA,2,37,MIN,Bobby Jones\jonesbo02,22.176,F,us,University of Washington
+638,2006,NBA,2,38,GSW,Kosta Perovic\perovko01,21.134,C,hr,
+639,2006,NBA,2,39,MIL,David Noel\noelda01,22.127,F,us,University of North Carolina
+640,2006,NBA,2,40,SEA,Denham Brown,,,,University of Connecticut
+641,2006,NBA,2,41,ORL,James Augustine\augusja01,22.127,F,us,University of Illinois at Urbana-Champaign
+642,2006,NBA,2,42,CLE,Daniel Gibson\gibsoda01,20.126,G,us,University of Texas at Austin
+643,2006,NBA,2,43,NOK,Marcus Vinicius\vincima01,22.033,F,br,
+644,2006,NBA,2,44,ORL,Lior Eliyahu\eliyali01,20.297,F,il,
+645,2006,NBA,2,45,IND,Alexander Johnson\johnsal01,23.146,F,us,Florida State University
+646,2006,NBA,2,46,UTA,Dee Brown\brownde03,21.32,G,us,University of Illinois at Urbana-Champaign
+647,2006,NBA,2,47,UTA,Paul Millsap\millspa01,21.143,F,us,Louisiana Tech University
+648,2006,NBA,2,48,WAS,Vladimir Veremeenko\veremvl01,21.347,F,by,
+649,2006,NBA,2,49,DEN,Leon Powe\powele01,22.163,F,us,University of California
+650,2006,NBA,2,50,CHA,Ryan Hollins\holliry01,21.266,C,us,University of California Los Angeles
+651,2006,NBA,2,51,LAL,Cheikh Samb\sambch01,21.254,C,sn,
+652,2006,NBA,2,52,LAC,Guillermo Diaz\diazgu01,21.121,G,pr,University of Miami
+653,2006,NBA,2,53,SEA,Yotam Halperin\halpeyo01,22.161,G,il,
+654,2006,NBA,2,54,NJN,Hassan Adams\adamsha01,22.013,G,us,University of Arizona
+655,2006,NBA,2,55,CLE,Ejike Ugboaja\ugboaej01,21.036,F,ng,
+656,2006,NBA,2,56,TOR,Edin Bavcic\bavcied01,22.028,C-F,ba,
+657,2006,NBA,2,57,MIN,Loukas Mavrokefalidis,,,,
+658,2006,NBA,2,58,DAL,J.R. Pinnock,,,,George Washington University
+659,2006,NBA,2,59,SAS,Damir Markota\markoda01,20.189,C,ba,
+660,2006,NBA,2,60,DET,Will Blalock\blalowi01,22.299,G,us,Iowa State University
+661,2005,NBA,1,1,MIL,Andrew Bogut\bogutan01,20.217,C,au,University of Utah
+662,2005,NBA,1,2,ATL,Marvin Williams\willima02,19.014,F,us,University of North Carolina
+663,2005,NBA,1,3,UTA,Deron Williams\willide01,21.007,G,us,University of Illinois at Urbana-Champaign
+664,2005,NBA,1,4,NOH,Chris Paul\paulch01,20.058,G,us,Wake Forest University
+665,2005,NBA,1,5,CHA,Raymond Felton\feltora01,21.007,G,us,University of North Carolina
+666,2005,NBA,1,6,POR,Martell Webster\webstma02,18.211,G-F,us,
+667,2005,NBA,1,7,TOR,Charlie Villanueva\villach01,20.313,F,us,University of Connecticut
+668,2005,NBA,1,8,NYK,Channing Frye\fryech01,22.048,C-F,us,University of Arizona
+669,2005,NBA,1,9,GSW,Ike Diogu\dioguik01,21.296,F,us,Arizona State University
+670,2005,NBA,1,10,LAL,Andrew Bynum\bynuman01,17.249,C,us,
+671,2005,NBA,1,11,ORL,Fran Vazquez\vazqufr01,22.064,,es,
+672,2005,NBA,1,12,LAC,Yaroslav Korolev\korolya01,18.057,F,ru,
+673,2005,NBA,1,13,CHA,Sean May\mayse01,21.09,F,us,University of North Carolina
+674,2005,NBA,1,14,MIN,Rashad McCants\mccanra01,20.281,G,us,University of North Carolina
+675,2005,NBA,1,15,NJN,Antoine Wright\wrighan01,21.148,G-F,us,Texas A&M University
+676,2005,NBA,1,16,TOR,Joey Graham\grahajo01,23.023,F,us,Oklahoma State University
+677,2005,NBA,1,17,IND,Danny Granger\grangda01,22.075,F,us,University of New Mexico
+678,2005,NBA,1,18,BOS,Gerald Green\greenge01,19.158,G-F,us,
+679,2005,NBA,1,19,MEM,Hakim Warrick\warriha01,22.361,F,us,Syracuse University
+680,2005,NBA,1,20,DEN,Julius Hodge\hodgeju01,21.228,G,us,North Carolina State University
+681,2005,NBA,1,21,PHO,Nate Robinson\robinna01,21.033,G,us,University of Washington
+682,2005,NBA,1,22,DEN,Jarrett Jack\jackja01,21.249,G,us,Georgia Institute of Technology
+683,2005,NBA,1,23,SAC,Francisco Garcia\garcifr01,23.185,F-G,do,University of Louisville
+684,2005,NBA,1,24,HOU,Luther Head\headlu01,22.22,G,us,University of Illinois at Urbana-Champaign
+685,2005,NBA,1,25,SEA,Johan Petro\petrojo01,19.157,C,fr,
+686,2005,NBA,1,26,DET,Jason Maxiell\maxieja01,22.136,F,us,University of Cincinnati
+687,2005,NBA,1,27,POR,Linas Kleiza\kleizli01,20.181,F,lt,University of Missouri
+688,2005,NBA,1,28,SAS,Ian Mahinmi\mahinia01,18.24,C,fr,
+689,2005,NBA,1,29,MIA,Wayne Simien\simiewa01,22.117,F,us,University of Kansas
+690,2005,NBA,1,30,NYK,David Lee\leeda02,22.066,F,us,University of Florida
+691,2005,NBA,2,31,ATL,Salim Stoudamire\stoudsa01,22.266,G,us,University of Arizona
+692,2005,NBA,2,32,LAC,Daniel Ewing\ewingda01,22.1,G,us,Duke University
+693,2005,NBA,2,33,NOH,Brandon Bass\bassbr01,20.064,F,us,Louisiana State University
+694,2005,NBA,2,34,UTA,C.J. Miles\milescj01,18.076,G-F,us,
+695,2005,NBA,2,35,POR,Ricky Sanchez,,,,
+696,2005,NBA,2,36,MIL,Ersan Ilyasova\ilyaser01,18.049,F,tr,
+697,2005,NBA,2,37,LAL,Ronny Turiaf\turiaro01,22.172,F,mq,Gonzaga University
+698,2005,NBA,2,38,ORL,Travis Diener\dienetr01,23.125,G,us,Marquette University
+699,2005,NBA,2,39,LAL,Von Wafer\wafervo01,19.347,G,us,Florida State University
+700,2005,NBA,2,40,GSW,Monta Ellis\ellismo01,19.25,G,us,
+701,2005,NBA,2,41,TOR,Roko Ukic\ukicro01,21.052,G,hr,
+702,2005,NBA,2,42,GSW,Chris Taft\taftch01,20.115,F,us,University of Pittsburgh
+703,2005,NBA,2,43,NJN,Mile Ilic\ilicmi01,21.031,C,ba,
+704,2005,NBA,2,44,ORL,Martynas Andriuskevicius\andrima01,19.113,C,lt,
+705,2005,NBA,2,45,PHI,Louis Williams\willilo02,18.249,G,us,
+706,2005,NBA,2,46,IND,Erazem Lorbek\lorbeer01,21.133,F,si,
+707,2005,NBA,2,47,MIN,Bracey Wright\wrighbr02,21.002,G,us,Indiana University
+708,2005,NBA,2,48,SEA,Mickael Gelabale\gelabmi01,22.043,F,gp,
+709,2005,NBA,2,49,WAS,Andray Blatche\blatcan01,18.315,F,us,
+710,2005,NBA,2,50,BOS,Ryan Gomes\gomesry01,22.306,F,us,Providence College
+711,2005,NBA,2,51,UTA,Robert Whaley\whalero01,23.079,C,us,Walsh University
+712,2005,NBA,2,52,DEN,Axel Hervelle\herveax01,21.211,F,be,
+713,2005,NBA,2,53,BOS,Orien Greene\greenor01,23.15,G,us,University of Louisiana at Lafayette
+714,2005,NBA,2,54,NYK,Dijon Thompson\thompdi01,22.131,G-F,us,University of California Los Angeles
+715,2005,NBA,2,55,SEA,Lawrence Roberts\roberla01,22.257,F,us,Mississippi State University
+716,2005,NBA,2,56,DET,Amir Johnson\johnsam01,18.063,F-C,us,
+717,2005,NBA,2,57,PHO,Marcin Gortat\gortama01,21.137,C-F,pl,
+718,2005,NBA,2,58,TOR,Uros Slokar\slokaur01,22.051,F,si,
+719,2005,NBA,2,59,ATL,Cenk Akyol\akyolce01,18.078,G,tr,
+720,2005,NBA,2,60,DET,Alex Acker\ackeral01,22.164,G,us,Pepperdine University
+721,2004,NBA,1,1,ORL,Dwight Howard\howardw01,18.203,C,us,
+722,2004,NBA,1,2,CHA,Emeka Okafor\okafoem01,21.275,C-F,us,University of Connecticut
+723,2004,NBA,1,3,CHI,Ben Gordon\gordobe01,21.087,G,gb,University of Connecticut
+724,2004,NBA,1,4,LAC,Shaun Livingston\livinsh01,18.291,G,us,
+725,2004,NBA,1,5,WAS,Devin Harris\harride01,21.123,G,us,University of Wisconsin
+726,2004,NBA,1,6,ATL,Josh Childress\childjo01,21.01,G-F,us,Stanford University
+727,2004,NBA,1,7,PHO,Luol Deng\denglu01,19.074,F,ss,Duke University
+728,2004,NBA,1,8,TOR,Rafael Araujo\araujra01,23.322,C,br,Brigham Young University
+729,2004,NBA,1,9,PHI,Andre Iguodala\iguodan01,20.153,G-F,us,University of Arizona
+730,2004,NBA,1,10,CLE,Luke Jackson\jackslu02,22.236,F,us,University of Oregon
+731,2004,NBA,1,11,GSW,Andris Biedrins\biedran01,18.088,C,lv,
+732,2004,NBA,1,12,SEA,Robert Swift\swiftro01,18.208,C,us,
+733,2004,NBA,1,13,POR,Sebastian Telfair\telfase01,19.02,G,us,
+734,2004,NBA,1,14,UTA,Kris Humphries\humphkr01,19.143,F-C,us,University of Minnesota
+735,2004,NBA,1,15,BOS,Al Jefferson\jeffeal01,19.176,C-F,us,
+736,2004,NBA,1,16,UTA,Kirk Snyder\snydeki01,21.025,G,us,University of Nevada Reno
+737,2004,NBA,1,17,ATL,Josh Smith\smithjo03,18.206,F,us,
+738,2004,NBA,1,18,NOH,J.R. Smith\smithjr01,18.293,G-F,us,
+739,2004,NBA,1,19,MIA,Dorell Wright\wrighdo01,18.209,F-G,us,
+740,2004,NBA,1,20,DEN,Jameer Nelson\nelsoja01,22.141,G,us,Saint Joseph's University
+741,2004,NBA,1,21,UTA,Pavel Podkolzin\podkopa01,19.165,C,ru,
+742,2004,NBA,1,22,NJN,Viktor Khryapa\khryavi01,21.331,F,ua,
+743,2004,NBA,1,23,POR,Sergei Monia\moniase01,21.076,F,ru,
+744,2004,NBA,1,24,BOS,Delonte West\westde01,20.339,G,us,Saint Joseph's University
+745,2004,NBA,1,25,BOS,Tony Allen\allento01,22.17,G-F,us,Oklahoma State University
+746,2004,NBA,1,26,SAC,Kevin Martin\martike02,21.149,G,us,Western Carolina University
+747,2004,NBA,1,27,LAL,Sasha Vujacic\vujacsa01,20.113,G,si,
+748,2004,NBA,1,28,SAS,Beno Udrih\udrihbe01,21.36,G,si,
+749,2004,NBA,1,29,IND,David Harrison\harrida01,21.319,C,us,University of Colorado
+750,2004,NBA,2,30,ORL,Anderson Varejao\varejan01,21.275,F-C,br,
+751,2004,NBA,2,31,CHI,Jackson Vroman\vromaja01,23.024,F-C,us,Iowa State University
+752,2004,NBA,2,32,WAS,Peter John Ramos\ramospe01,19.047,C,pr,
+753,2004,NBA,2,33,LAC,Lionel Chalmers\chalmli01,23.232,G,us,Xavier University
+754,2004,NBA,2,34,ATL,Donta Smith\smithdo04,20.215,G-F,us,Southeastern Illinois College
+755,2004,NBA,2,35,SEA,Andre Emmett\emmetan01,21.307,F,us,Texas Tech University
+756,2004,NBA,2,36,ORL,Antonio Burks\burksan01,24.126,G,us,University of Memphis
+757,2004,NBA,2,37,ATL,Royal Ivey\iveyro01,22.192,G,us,University of Texas at Austin
+758,2004,NBA,2,38,CHI,Chris Duhon\duhonch01,21.303,G,us,Duke University
+759,2004,NBA,2,39,TOR,Albert Miralles\miralal01,22.047,C,es,
+760,2004,NBA,2,40,BOS,Justin Reed\reedju01,22.165,F,us,University of Mississippi
+761,2004,NBA,2,41,SEA,David Young,,,,North Carolina Central University
+762,2004,NBA,2,42,ATL,Viktor Sanikidze\sanikvi01,18.089,F,ge,
+763,2004,NBA,2,43,NYK,Trevor Ariza\arizatr01,18.364,F,us,University of California Los Angeles
+764,2004,NBA,2,44,NOH,Tim Pickett,,,,Florida State University
+765,2004,NBA,2,45,CHA,Bernard Robinson\robinbe01,23.186,G-F,us,University of Michigan
+766,2004,NBA,2,46,POR,Ha Seung-Jin\seungha01,18.329,C,kr,
+767,2004,NBA,2,47,MIA,Pape Sow\sowpa01,22.22,F,sn,California State University Fullerton
+768,2004,NBA,2,48,SAC,Ricky Minard,,,,Morehead State University
+769,2004,NBA,2,49,MEM,Sergei Lishouk\lishcse01,22.091,C-F,ua,
+770,2004,NBA,2,50,DAL,Vassilis Spanoulis\spanova01,21.327,G,gr,
+771,2004,NBA,2,51,NJN,Christian Drejer,,,,University of Florida
+772,2004,NBA,2,52,SAS,Romain Sato,,,,Xavier University
+773,2004,NBA,2,53,MIA,Matt Freije\freijma01,22.271,F,us,Vanderbilt University
+774,2004,NBA,2,54,DET,Rickey Paulding,,,,University of Missouri
+775,2004,NBA,2,55,HOU,Luis Flores\florelu01,23.08,G,do,Manhattan College
+776,2004,NBA,2,56,LAL,Marcus Douthit,,,,Providence College
+777,2004,NBA,2,57,SAS,Sergei Karaulov\karause01,22.076,C,uz,
+778,2004,NBA,2,58,MIN,Blake Stepp,,,,Gonzaga University
+779,2004,NBA,2,59,IND,Rashad Wright,,,,University of Georgia
+780,2003,NBA,1,1,CLE,LeBron James\jamesle01,18.182,F-G,us,
+781,2003,NBA,1,2,DET,Darko Milicic\milicda01,18.01,F-C,rs,
+782,2003,NBA,1,3,DEN,Carmelo Anthony\anthoca01,19.032,F,us,Syracuse University
+783,2003,NBA,1,4,TOR,Chris Bosh\boshch01,19.098,F-C,us,Georgia Institute of Technology
+784,2003,NBA,1,5,MIA,Dwyane Wade\wadedw01,21.165,G,us,Marquette University
+785,2003,NBA,1,6,LAC,Chris Kaman\kamanch01,21.064,C,us,Central Michigan University
+786,2003,NBA,1,7,CHI,Kirk Hinrich\hinriki01,22.18,G,us,University of Kansas
+787,2003,NBA,1,8,MIL,T.J. Ford\fordtj01,20.099,G,us,University of Texas at Austin
+788,2003,NBA,1,9,NYK,Mike Sweetney\sweetmi01,20.249,F,us,Georgetown University
+789,2003,NBA,1,10,WAS,Jarvis Hayes\hayesja01,21.326,F,us,University of Georgia
+790,2003,NBA,1,11,GSW,Mickael Pietrus\pietrmi01,21.144,G-F,gp,
+791,2003,NBA,1,12,SEA,Nick Collison\collini01,22.248,F,us,University of Kansas
+792,2003,NBA,1,13,MEM,Marcus Banks\banksma01,21.224,G,us,University of Nevada Las Vegas
+793,2003,NBA,1,14,SEA,Luke Ridnour\ridnolu01,22.138,G,us,University of Oregon
+794,2003,NBA,1,15,ORL,Reece Gaines\gainere01,22.175,G,us,University of Louisville
+795,2003,NBA,1,16,BOS,Troy Bell\belltr01,22.233,G,us,Boston College
+796,2003,NBA,1,17,PHO,Zarko Cabarkapa\cabarza01,22.041,F,rs,
+797,2003,NBA,1,18,NOH,David West\westda01,22.306,F,us,Xavier University
+798,2003,NBA,1,19,UTA,Sasha Pavlovic\pavloal01,19.228,G-F,me,
+799,2003,NBA,1,20,BOS,Dahntay Jones\jonesda02,22.186,G-F,us,Duke University
+800,2003,NBA,1,21,ATL,Boris Diaw\diawbo01,21.076,F-C,fr,
+801,2003,NBA,1,22,NJN,Zoran Planinic\planizo01,20.292,G,ba,
+802,2003,NBA,1,23,POR,Travis Outlaw\outlatr01,18.285,F,us,
+803,2003,NBA,1,24,LAL,Brian Cook\cookbr01,22.209,F,us,University of Illinois at Urbana-Champaign
+804,2003,NBA,1,25,DET,Carlos Delfino\delfica01,20.306,G,ar,
+805,2003,NBA,1,26,MIN,Ndudi Ebi\ebind01,19.012,F,gb,
+806,2003,NBA,1,27,MEM,Kendrick Perkins\perkike01,18.232,C,us,
+807,2003,NBA,1,28,SAS,Leandro Barbosa\barbole01,20.215,G,br,
+808,2003,NBA,1,29,DAL,Josh Howard\howarjo01,23.064,F-G,us,Wake Forest University
+809,2003,NBA,2,30,NYK,Maciej Lampe\lampema01,18.145,C,pl,
+810,2003,NBA,2,31,CLE,Jason Kapono\kaponja01,22.147,F,us,University of California Los Angeles
+811,2003,NBA,2,32,LAL,Luke Walton\waltolu01,23.095,F,us,University of Arizona
+812,2003,NBA,2,33,MIA,Jerome Beasley\beaslje01,23.045,F,us,University of North Dakota
+813,2003,NBA,2,34,LAC,Sofoklis Schortsanitis\schorso01,18.008,C,cm,
+814,2003,NBA,2,35,MIL,Szymon Szewczyk\szewcsz01,20.192,F-C,pl,
+815,2003,NBA,2,36,CHI,Mario Austin\austima01,21.125,F-C,us,Mississippi State University
+816,2003,NBA,2,37,ATL,Travis Hansen\hansetr01,25.078,G,us,Brigham Young University
+817,2003,NBA,2,38,WAS,Steve Blake\blakest01,23.126,G,us,University of Maryland
+818,2003,NBA,2,39,NYK,Slavko Vranes\vranesl01,20.152,C,rs,
+819,2003,NBA,2,40,GSW,Derrick Zimmerman\zimmede01,21.211,G,us,Mississippi State University
+820,2003,NBA,2,41,SEA,Willie Green\greenwi01,21.338,G,us,University of Detroit Mercy
+821,2003,NBA,2,42,ORL,Zaza Pachulia\pachuza01,19.141,C,ge,
+822,2003,NBA,2,43,MIL,Keith Bogans\boganke01,23.05,G-F,us,University of Kentucky
+823,2003,NBA,2,44,HOU,Malick Badiane,,,,
+824,2003,NBA,2,45,CHI,Matt Bonner\bonnema01,23.087,F,us,University of Florida
+825,2003,NBA,2,46,DEN,Sani Becirovic\becirsa01,22.043,G,si,
+826,2003,NBA,2,47,UTA,Mo Williams\willima01,20.194,G,us,University of Alabama
+827,2003,NBA,2,48,NOH,James Lang\langja01,19.257,C,us,
+828,2003,NBA,2,49,IND,James Jones\jonesja02,22.27,F-G,us,University of Miami
+829,2003,NBA,2,50,PHI,Paccelis Morlende\morlepa01,22.073,G,fr,
+830,2003,NBA,2,51,NJN,Kyle Korver\korveky01,22.106,G-F,us,Creighton University
+831,2003,NBA,2,52,TOR,Remon Van de Hare,,,,
+832,2003,NBA,2,53,CHI,Tommy Smith,,,,Arizona State University
+833,2003,NBA,2,54,POR,Nedzad Sinanovic\sinanne01,20.153,C,ba,
+834,2003,NBA,2,55,MIN,Rick Rickert,,,,University of Minnesota
+835,2003,NBA,2,56,BOS,Brandon Hunter\huntebr01,22.219,F,us,Ohio University
+836,2003,NBA,2,57,DAL,Xue Yuyang\yuyanxu01,20.239,F-C,cn,
+837,2003,NBA,2,58,DET,Andreas Glyniadakis\glynian01,21.314,C,gr,
+838,2002,NBA,1,1,HOU,Yao Ming\mingya01,21.292,C,cn,
+839,2002,NBA,1,2,CHI,Jay Williams\willija03,20.294,G,us,Duke University
+840,2002,NBA,1,3,GSW,Mike Dunleavy\dunlemi02,21.289,F-G,us,Duke University
+841,2002,NBA,1,4,MEM,Drew Gooden\goodedr01,20.28,F,us,University of Kansas
+842,2002,NBA,1,5,DEN,Nikoloz Tskitishvili\tskitni01,19.078,F,ge,
+843,2002,NBA,1,6,CLE,Dajuan Wagner\wagneda02,19.147,G,us,University of Memphis
+844,2002,NBA,1,7,NYK,Nene Hilario\hilarne01,19.291,F-C,br,
+845,2002,NBA,1,8,LAC,Chris Wilcox\wilcoch01,19.301,F,us,University of Maryland
+846,2002,NBA,1,9,PHO,Amar'e Stoudemire\stoudam01,19.227,F-C,us,
+847,2002,NBA,1,10,MIA,Caron Butler\butleca01,22.11,F,us,University of Connecticut
+848,2002,NBA,1,11,WAS,Jared Jeffries\jeffrja01,20.218,F,us,Indiana University
+849,2002,NBA,1,12,LAC,Melvin Ely\elyme01,24.061,C,us,California State University Fresno
+850,2002,NBA,1,13,MIL,Marcus Haislip\haislma01,21.191,F,us,University of Tennessee
+851,2002,NBA,1,14,IND,Fred Jones\jonesfr01,23.113,G-F,us,University of Oregon
+852,2002,NBA,1,15,HOU,Bostjan Nachbar\nachbbo01,21.363,F,si,
+853,2002,NBA,1,16,PHI,Jiri Welsch\welscji01,22.156,G,cz,
+854,2002,NBA,1,17,WAS,Juan Dixon\dixonju01,23.266,G,us,University of Maryland
+855,2002,NBA,1,18,ORL,Curtis Borchardt\borchcu01,21.291,C,us,Stanford University
+856,2002,NBA,1,19,UTA,Ryan Humphrey\humphry01,22.343,F,us,University of Notre Dame
+857,2002,NBA,1,20,TOR,Kareem Rush\rushka01,21.244,G,us,University of Missouri
+858,2002,NBA,1,21,POR,Qyntel Woods\woodsqy01,21.135,F,us,Northeast Mississippi Community College
+859,2002,NBA,1,22,PHO,Casey Jacobsen\jacobca01,21.104,G-F,us,Stanford University
+860,2002,NBA,1,23,DET,Tayshaun Prince\princta01,22.124,F,us,University of Kentucky
+861,2002,NBA,1,24,NJN,Nenad Krstic\krstine01,18.341,C,rs,
+862,2002,NBA,1,25,DEN,Frank Williams\willifr02,22.127,G,us,University of Illinois at Urbana-Champaign
+863,2002,NBA,1,26,SAS,John Salmons\salmojo01,22.202,G,us,University of Miami
+864,2002,NBA,1,27,LAL,Chris Jefferies\jeffech01,22.139,G-F,us,California State University Fresno
+865,2002,NBA,1,28,SAC,Dan Dickau\dickada01,23.289,G,us,Gonzaga University
+866,2002,NBA,2,30,GSW,Steve Logan,,,,University of Cincinnati
+867,2002,NBA,2,31,CHI,Roger Mason\masonro01,21.294,G,us,University of Virginia
+868,2002,NBA,2,32,MEM,Robert Archibald\archiro01,22.094,F,gb,University of Illinois at Urbana-Champaign
+869,2002,NBA,2,33,DEN,Vincent Yarbrough\yarbrvi01,21.102,G-F,us,University of Tennessee
+870,2002,NBA,2,34,MIL,Dan Gadzuric\gadzuda01,24.15,C,nl,University of California Los Angeles
+871,2002,NBA,2,35,CLE,Carlos Boozer\boozeca01,20.223,F-C,de,Duke University
+872,2002,NBA,2,36,NYK,Milos Vujanic,,,,
+873,2002,NBA,2,37,ATL,David Andersen\anderda03,22.008,C,au,
+874,2002,NBA,2,38,HOU,Tito Maddox\maddoti01,21.024,G,us,California State University Fresno
+875,2002,NBA,2,39,WAS,Rod Grizzard,,,,University of Alabama
+876,2002,NBA,2,40,WAS,Juan Carlos Navarro\navarju01,22.018,G,es,
+877,2002,NBA,2,41,LAC,Mario Kasun\kasunma01,22.087,C,hr,
+878,2002,NBA,2,42,MIL,Ronald Murray\murraro01,22.338,G,us,Shaw University
+879,2002,NBA,2,43,POR,Jason Jennings,,,,Arkansas State University
+880,2002,NBA,2,44,CHI,Lonny Baxter\baxtelo01,23.156,F,us,University of Maryland
+881,2002,NBA,2,45,PHI,Sam Clancy,,,,University of Southern California
+882,2002,NBA,2,46,MEM,Matt Barnes\barnema02,22.114,F,us,University of California Los Angeles
+883,2002,NBA,2,47,UTA,Jamal Sampson\sampsja01,19.047,F-C,us,University of California
+884,2002,NBA,2,48,MIL,Chris Owens\owensch01,23.123,F,us,University of Texas at Austin
+885,2002,NBA,2,49,SEA,Peter Fehse,,,,
+886,2002,NBA,2,50,BOS,Darius Songaila\songada01,24.138,F,lt,Wake Forest University
+887,2002,NBA,2,51,POR,Federico Kammerichs,,,,
+888,2002,NBA,2,52,MIN,Marcus Taylor,,,,Michigan State University
+889,2002,NBA,2,53,MIA,Rasual Butler\butlera01,23.04,F-G,us,La Salle University
+890,2002,NBA,2,54,NJN,Tamar Slay\slayta01,22.09,G,us,Marshall University
+891,2002,NBA,2,55,DAL,Mladen Sekularac,,,,
+892,2002,NBA,2,56,SAS,Luis Scola\scolalu01,22.062,F,ar,
+893,2002,NBA,2,57,SAS,Randy Holcomb\holcora01,22.328,F,us,San Diego State University
+894,2002,NBA,2,58,SAC,Corsley Edwards\edwarco01,23.119,F,us,Central Connecticut State University
+895,2001,NBA,1,1,WAS,Kwame Brown\brownkw01,19.114,F,us,
+896,2001,NBA,1,2,LAC,Tyson Chandler\chandty01,18.273,C,us,
+897,2001,NBA,1,3,ATL,Pau Gasol\gasolpa01,20.361,F-C,es,
+898,2001,NBA,1,4,CHI,Eddy Curry\curryed01,18.209,C,us,
+899,2001,NBA,1,5,GSW,Jason Richardson\richaja01,20.163,G,us,Michigan State University
+900,2001,NBA,1,6,MEM,Shane Battier\battish01,22.297,F,us,Duke University
+901,2001,NBA,1,7,NJN,Eddie Griffin\griffed01,19.033,F-C,us,Seton Hall University
+902,2001,NBA,1,8,CLE,DeSagana Diop\diopde01,19.153,C,sn,
+903,2001,NBA,1,9,DET,Rodney White\whitero02,21.004,F,us,University of North Carolina at Charlotte
+904,2001,NBA,1,10,BOS,Joe Johnson\johnsjo02,20.003,G-F,us,University of Arkansas
+905,2001,NBA,1,11,BOS,Kedrick Brown\brownke01,20.106,G,us,Okaloosa-Walton Community College
+906,2001,NBA,1,12,SEA,Vladimir Radmanovic\radmavl01,20.225,F,ba,
+907,2001,NBA,1,13,HOU,Richard Jefferson\jefferi01,21.011,F,us,University of Arizona
+908,2001,NBA,1,14,GSW,Troy Murphy\murphtr01,21.061,F-C,us,University of Notre Dame
+909,2001,NBA,1,15,ORL,Steven Hunter\huntest01,19.244,C,us,DePaul University
+910,2001,NBA,1,16,CHH,Kirk Haston\hastoki01,22.115,F,us,Indiana University
+911,2001,NBA,1,17,TOR,Michael Bradley\bradlmi01,22.076,F-C,us,Villanova University
+912,2001,NBA,1,18,HOU,Jason Collins\collija04,22.213,C,us,Stanford University
+913,2001,NBA,1,19,POR,Zach Randolph\randoza01,19.351,F,us,Michigan State University
+914,2001,NBA,1,20,CLE,Brendan Haywood\haywobr01,21.218,C,us,University of North Carolina
+915,2001,NBA,1,21,BOS,Joseph Forte\fortejo01,20.101,G,us,University of North Carolina
+916,2001,NBA,1,22,ORL,Jeryl Sasser\sasseje01,22.14,G,us,Southern Methodist University
+917,2001,NBA,1,23,HOU,Brandon Armstrong\armstbr01,21.016,G,us,Pepperdine University
+918,2001,NBA,1,24,UTA,Raul Lopez\lopezra01,21.078,G,es,
+919,2001,NBA,1,25,SAC,Gerald Wallace\wallage01,18.344,F,us,University of Alabama
+920,2001,NBA,1,26,PHI,Samuel Dalembert\dalemsa01,20.053,C,ht,Seton Hall University
+921,2001,NBA,1,27,MEM,Jamaal Tinsley\tinslja01,23.125,G,us,Iowa State University
+922,2001,NBA,1,28,SAS,Tony Parker\parketo01,19.046,G,be,
+923,2001,NBA,2,30,CHI,Trenton Hassell\hassetr01,22.121,G,us,Austin Peay State University
+924,2001,NBA,2,31,GSW,Gilbert Arenas\arenagi01,19.177,G,us,University of Arizona
+925,2001,NBA,2,32,ORL,Omar Cook\cookom01,19.155,G,us,St. John's University
+926,2001,NBA,2,33,MEM,Will Solomon\solomwi01,22.348,G,us,Clemson University
+927,2001,NBA,2,34,ATL,Terence Morris\morrite01,22.173,F,us,University of Maryland
+928,2001,NBA,2,35,NJN,Brian Scalabrine\scalabr01,23.107,F,us,University of Southern California
+929,2001,NBA,2,36,CLE,Jeff Trepagnier\trepaje01,21.357,G,us,University of Southern California
+930,2001,NBA,2,37,PHI,Damone Brown\brownda02,22.005,F,us,Syracuse University
+931,2001,NBA,2,38,DET,Mehmet Okur\okurme01,22.038,C-F,tr,
+932,2001,NBA,2,39,NYK,Michael Wright,,,,University of Arizona
+933,2001,NBA,2,40,SEA,Earl Watson\watsoea01,22.021,G,us,University of California Los Angeles
+934,2001,NBA,2,41,IND,Jamison Brewer\breweja01,20.225,G,us,Auburn University
+935,2001,NBA,2,42,SEA,Bobby Simmons\simmobo01,21.03,G-F,us,DePaul University
+936,2001,NBA,2,43,NYK,Eric Chenowith,,,,University of Kansas
+937,2001,NBA,2,44,DAL,Kyle Hill,,,,Eastern Illinois University
+938,2001,NBA,2,45,CHI,Sean Lampley\lamplse01,21.303,F,us,University of California
+939,2001,NBA,2,46,MIN,Loren Woods\woodslo01,23.012,F-C,us,University of Arizona
+940,2001,NBA,2,47,DEN,Ousmane Cisse,,,,
+941,2001,NBA,2,48,MEM,Antonis Fotsis\fotsian01,20.092,F,gr,
+942,2001,NBA,2,49,MIA,Ken Johnson\johnske03,23.152,F-C,us,Ohio State University
+943,2001,NBA,2,50,POR,Ruben Boumtje-Boumtje\boumtru01,23.044,C,cm,Georgetown University
+944,2001,NBA,2,51,PHO,Alton Ford\fordal02,20.034,F,us,University of Houston
+945,2001,NBA,2,52,MIL,Andre Hutson,,,,Michigan State University
+946,2001,NBA,2,53,UTA,Jarron Collins\collija03,22.213,F-C,us,Stanford University
+947,2001,NBA,2,54,DAL,Kenny Satterfield\satteke01,20.083,G,us,University of Cincinnati
+948,2001,NBA,2,55,SAC,Maurice Jeffers,,,,Saint Louis University
+949,2001,NBA,2,56,SAS,Robertas Javtokas\javtoro01,21.104,C,lt,
+950,2001,NBA,2,57,PHI,Alvin Jones\jonesal01,22.297,C,lu,Georgia Institute of Technology
+951,2001,NBA,2,58,SAS,Bryan Bracey,,,,University of Oregon
+952,2000,NBA,1,1,NJN,Kenyon Martin\martike01,22.186,F,us,University of Cincinnati
+953,2000,NBA,1,2,VAN,Stromile Swift\swiftst01,20.225,F,us,Louisiana State University
+954,2000,NBA,1,3,LAC,Darius Miles\milesda01,18.267,F,us,
+955,2000,NBA,1,4,CHI,Marcus Fizer\fizerma01,21.328,F,us,Iowa State University
+956,2000,NBA,1,5,ORL,Mike Miller\millemi01,20.135,F-G,us,University of Florida
+957,2000,NBA,1,6,ATL,DerMarr Johnson\johnsde03,20.059,F,us,University of Cincinnati
+958,2000,NBA,1,7,CHI,Chris Mihm\mihmch01,20.353,C,us,University of Texas at Austin
+959,2000,NBA,1,8,CLE,Jamal Crawford\crawfja01,20.105,G,us,University of Michigan
+960,2000,NBA,1,9,HOU,Joel Przybilla\przybjo01,20.267,C,us,University of Minnesota
+961,2000,NBA,1,10,ORL,Keyon Dooling\doolike01,20.056,G,us,University of Missouri
+962,2000,NBA,1,11,BOS,Jerome Moiso\moisoje01,22.019,F-C,fr,University of California Los Angeles
+963,2000,NBA,1,12,DAL,Etan Thomas\thomaet01,22.094,F,us,Syracuse University
+964,2000,NBA,1,13,ORL,Courtney Alexander\alexaco02,23.068,G,us,California State University Fresno
+965,2000,NBA,1,14,DET,Mateen Cleaves\cleavma01,22.3,G,us,Michigan State University
+966,2000,NBA,1,15,MIL,Jason Collier\collija02,22.299,C,us,Georgia Institute of Technology
+967,2000,NBA,1,16,SAC,Hedo Turkoglu\turkohe01,21.107,F,tr,
+968,2000,NBA,1,17,SEA,Desmond Mason\masonde01,22.266,F,us,Oklahoma State University
+969,2000,NBA,1,18,LAC,Quentin Richardson\richaqu01,20.081,G,us,DePaul University
+970,2000,NBA,1,19,CHH,Jamaal Magloire\magloja01,22.044,C,ca,University of Kentucky
+971,2000,NBA,1,20,PHI,Speedy Claxton\claxtsp01,22.057,G,us,Hofstra University
+972,2000,NBA,1,21,TOR,Morris Peterson\petermo01,22.312,F,us,Michigan State University
+973,2000,NBA,1,22,NYK,Donnell Harvey\harvedo01,19.311,F,us,University of Florida
+974,2000,NBA,1,23,UTA,DeShawn Stevenson\stevede01,19.091,G,us,
+975,2000,NBA,1,24,CHI,Dalibor Bagaric\bagarda01,20.147,C,hr,
+976,2000,NBA,1,25,PHO,Jake Tsakalidis\tsakaja01,21.024,C,ge,
+977,2000,NBA,1,26,DEN,Mamadou N'Diaye\ndiayma02,25.019,C,sn,Auburn University
+978,2000,NBA,1,27,IND,Primoz Brezec\brezepr01,20.275,C,si,
+979,2000,NBA,1,28,POR,Erick Barkley\barkler01,22.133,G,us,St. John's University
+980,2000,NBA,1,29,LAL,Mark Madsen\madsema01,24.158,F,us,Stanford University
+981,2000,NBA,2,30,LAC,Marko Jaric\jaricma01,21.265,G,rs,
+982,2000,NBA,2,31,DAL,Dan Langhi\langhda01,22.218,F,us,Vanderbilt University
+983,2000,NBA,2,32,CHI,A.J. Guyton\guytoaj01,22.142,G,us,Indiana University
+984,2000,NBA,2,33,CHI,Jake Voskuhl\voskuja01,22.245,C,us,University of Connecticut
+985,2000,NBA,2,34,CHI,Khalid El-Amin\elamikh01,21.07,G,us,University of Connecticut
+986,2000,NBA,2,35,WAS,Mike Smith\smithmi03,24.08,F,us,University of Louisiana at Monroe
+987,2000,NBA,2,36,NJN,Soumaila Samake\samakso01,22.108,C,ml,
+988,2000,NBA,2,37,MIA,Eddie House\houseed01,22.051,G,us,Arizona State University
+989,2000,NBA,2,38,HOU,Eduardo Najera\najered01,23.358,F,mx,University of Oklahoma
+990,2000,NBA,2,39,NYK,Lavor Postell\postela01,22.128,G,us,St. John's University
+991,2000,NBA,2,40,ATL,Hanno Mottola\mottoha01,23.298,C,fi,University of Utah
+992,2000,NBA,2,41,SAS,Chris Carrawell,,,,Duke University
+993,2000,NBA,2,42,SEA,Olumide Oyedeji\oyedeol01,19.053,C,ng,
+994,2000,NBA,2,43,MIL,Michael Redd\reddmi01,20.314,G,us,Ohio State University
+995,2000,NBA,2,44,DET,Brian Cardinal\cardibr01,23.063,F,us,Purdue University
+996,2000,NBA,2,45,SAC,Jabari Smith\smithja01,23.142,C,us,Louisiana State University
+997,2000,NBA,2,46,TOR,DeeAndre Hulett,,,,College of the Sequoias
+998,2000,NBA,2,47,SEA,Josip Sesar,,,,
+999,2000,NBA,2,48,PHI,Mark Karcher,,,,Temple University
+1000,2000,NBA,2,49,MIL,Jason Hart\hartja01,22.066,G,us,Syracuse University
+1001,2000,NBA,2,50,UTA,Kaniel Dickens\dickeka01,21.348,F,us,University of Idaho
+1002,2000,NBA,2,51,MIN,Igor Rakocevic\rakocig01,22.097,G,rs,
+1003,2000,NBA,2,52,MIA,Ernest Brown\browner01,21.048,C,us,Indian Hills Community College
+1004,2000,NBA,2,53,DEN,Dan McClintock\mcclida01,23.076,C,us,Northern Arizona University
+1005,2000,NBA,2,54,SAS,Cory Hightower,,,,Indian Hills Community College
+1006,2000,NBA,2,55,GSW,Chris Porter\portech01,22.056,F,us,Auburn University
+1007,2000,NBA,2,56,IND,Jaquay Walls,,,,University of Colorado
+1008,2000,NBA,2,57,ATL,Scoonie Penn,,,,Ohio State University
+1009,2000,NBA,2,58,DAL,Pete Mickeal,,,,University of Cincinnati
+1010,1999,NBA,1,1,CHI,Elton Brand\brandel01,20.116,F,us,Duke University
+1011,1999,NBA,1,2,VAN,Steve Francis\francst01,22.134,G,us,University of Maryland
+1012,1999,NBA,1,3,CHH,Baron Davis\davisba01,20.083,G,us,University of California Los Angeles
+1013,1999,NBA,1,4,LAC,Lamar Odom\odomla01,19.241,F,us,University of Rhode Island
+1014,1999,NBA,1,5,TOR,Jonathan Bender\bendejo01,18.155,F,us,
+1015,1999,NBA,1,6,MIN,Wally Szczerbiak\szczewa02,22.122,F,es,Miami University
+1016,1999,NBA,1,7,WAS,Richard Hamilton\hamilri01,21.141,G-F,us,University of Connecticut
+1017,1999,NBA,1,8,CLE,Andre Miller\millean02,23.108,G,us,University of Utah
+1018,1999,NBA,1,9,PHO,Shawn Marion\mariosh01,21.059,F,us,University of Nevada Las Vegas
+1019,1999,NBA,1,10,ATL,Jason Terry\terryja01,21.293,G,us,University of Arizona
+1020,1999,NBA,1,11,CLE,Trajan Langdon\langdtr01,23.053,G,us,Duke University
+1021,1999,NBA,1,12,TOR,Aleksandar Radojevic\radojal01,22.331,C,me,Barton County Community College
+1022,1999,NBA,1,13,SEA,Corey Maggette\maggeco01,19.235,F,us,Duke University
+1023,1999,NBA,1,14,MIN,William Avery\averywi01,19.331,G,us,Duke University
+1024,1999,NBA,1,15,NYK,Frederic Weis,,,,
+1025,1999,NBA,1,16,CHI,Metta World Peace\artesro01,19.234,F,us,St. John's University
+1026,1999,NBA,1,17,ATL,Cal Bowdler\bowdlca01,22.096,F,us,Old Dominion University
+1027,1999,NBA,1,18,DEN,James Posey\poseyja01,22.173,F-G,us,Xavier University
+1028,1999,NBA,1,19,UTA,Quincy Lewis\lewisqu01,22.009,F,us,University of Minnesota
+1029,1999,NBA,1,20,ATL,Dion Glover\glovedi01,20.256,G,us,Georgia Institute of Technology
+1030,1999,NBA,1,21,GSW,Jeff Foster\fosteje01,22.17,F-C,us,Texas State University
+1031,1999,NBA,1,22,HOU,Kenny Thomas\thomake01,21.345,F,us,University of New Mexico
+1032,1999,NBA,1,23,LAL,Devean George\georgde01,21.31,G-F,us,Augsburg College
+1033,1999,NBA,1,24,UTA,Andrei Kirilenko\kirilan01,18.136,F,ru,
+1034,1999,NBA,1,25,MIA,Tim James\jamesti01,22.191,F,us,University of Miami
+1035,1999,NBA,1,26,IND,Vonteego Cummings\cummivo01,23.127,G,us,University of Pittsburgh
+1036,1999,NBA,1,27,ATL,Jumaine Jones\jonesju01,20.145,F,us,University of Georgia
+1037,1999,NBA,1,28,UTA,Scott Padgett\padgesc01,23.077,F,us,University of Kentucky
+1038,1999,NBA,1,29,SAS,Leon Smith\smithle01,18.244,C,us,
+1039,1999,NBA,2,30,LAL,John Celestand\celesjo01,22.121,G,us,Villanova University
+1040,1999,NBA,2,31,LAC,Rico Hill,,,,Illinois State University
+1041,1999,NBA,2,32,CHI,Michael Ruffin\ruffimi01,22.165,F,us,University of Tulsa
+1042,1999,NBA,2,33,DEN,Chris Herren\herrech01,23.282,G,us,California State University Fresno
+1043,1999,NBA,2,34,NJN,Evan Eschmeyer\eschmev01,24.037,C,us,Northwestern University
+1044,1999,NBA,2,35,WAS,Calvin Booth\boothca01,23.059,C,us,Pennsylvania State University
+1045,1999,NBA,2,36,DAL,Wang Zhizhi\zhizhwa01,21.362,C,cn,
+1046,1999,NBA,2,37,VAN,Obinna Ekezie\ekeziob01,23.318,F-C,ng,University of Maryland
+1047,1999,NBA,2,38,ORL,Laron Profit\profila01,21.334,G-F,us,University of Maryland
+1048,1999,NBA,2,39,CLE,A.J. Bramlett\bramlaj01,22.176,C,us,University of Arizona
+1049,1999,NBA,2,40,DAL,Gordan Giricek\giricgo01,22.015,G-F,hr,
+1050,1999,NBA,2,41,DEN,Francisco Elson\elsonfr01,23.128,C,nl,University of California
+1051,1999,NBA,2,42,MIN,Louis Bullock,,,,University of Michigan
+1052,1999,NBA,2,43,CHH,Lee Nailon\nailole01,24.134,F,us,Texas Christian University
+1053,1999,NBA,2,44,HOU,Tyrone Washington,,,,Mississippi State University
+1054,1999,NBA,2,45,SAC,Ryan Robertson\roberry01,22.276,G,us,University of Kansas
+1055,1999,NBA,2,46,NYK,J.R. Koch,,,,University of Iowa
+1056,1999,NBA,2,47,PHI,Todd MacCulloch\maccuto01,23.16,C,ca,University of Washington
+1057,1999,NBA,2,48,MIL,Galen Young,,,,University of North Carolina at Charlotte
+1058,1999,NBA,2,49,CHI,Lari Ketner\ketnela01,22.154,F-C,us,University of Massachusetts Amherst
+1059,1999,NBA,2,50,HOU,Venson Hamilton\hamilve01,21.328,C,us,University of Nebraska
+1060,1999,NBA,2,51,VAN,Antwain Smith,,,,Saint Paul's College
+1061,1999,NBA,2,52,POR,Roberto Bergersen,,,,Boise State University
+1062,1999,NBA,2,53,MIA,Rodney Buford\buforro01,21.245,G-F,us,Creighton University
+1063,1999,NBA,2,54,DET,Melvin Levett,,,,University of Cincinnati
+1064,1999,NBA,2,55,BOS,Kris Clack,,,,University of Texas at Austin
+1065,1999,NBA,2,56,GSW,Tim Young\youngti01,23.15,C,us,Stanford University
+1066,1999,NBA,2,57,SAS,Manu Ginobili\ginobma01,21.342,G,ar,
+1067,1999,NBA,2,58,UTA,Eddie Lucas,,,,Virginia Polytechnic Institute and State University
+1068,1998,NBA,1,1,LAC,Michael Olowokandi\olowomi01,23.088,C,ng,University of the Pacific
+1069,1998,NBA,1,2,VAN,Mike Bibby\bibbymi01,20.047,G,us,University of Arizona
+1070,1998,NBA,1,3,DEN,Raef LaFrentz\lafrera01,22.031,F-C,us,University of Kansas
+1071,1998,NBA,1,4,TOR,Antawn Jamison\jamisan01,22.017,F,us,University of North Carolina
+1072,1998,NBA,1,5,GSW,Vince Carter\cartevi01,21.154,G-F,us,University of North Carolina
+1073,1998,NBA,1,6,DAL,Robert Traylor\traylro01,21.148,F,us,University of Michigan
+1074,1998,NBA,1,7,SAC,Jason Williams\willija02,22.224,G,us,University of Florida
+1075,1998,NBA,1,8,PHI,Larry Hughes\hughela01,19.157,G,us,Saint Louis University
+1076,1998,NBA,1,9,MIL,Dirk Nowitzki\nowitdi01,20.01,F,de,
+1077,1998,NBA,1,10,BOS,Paul Pierce\piercpa01,20.259,F-G,us,University of Kansas
+1078,1998,NBA,1,11,DET,Bonzi Wells\wellsbo01,21.274,G-F,us,Ball State University
+1079,1998,NBA,1,12,ORL,Michael Doleac\doleami01,21.014,C,us,University of Utah
+1080,1998,NBA,1,13,ORL,Keon Clark\clarkke01,23.075,F-C,us,University of Nevada Las Vegas
+1081,1998,NBA,1,14,HOU,Michael Dickerson\dickemi01,23.005,G-F,us,University of Arizona
+1082,1998,NBA,1,15,ORL,Matt Harpring\harprma01,22.029,F,us,Georgia Institute of Technology
+1083,1998,NBA,1,16,HOU,Bryce Drew\drewbr01,23.282,G,us,Valparaiso University
+1084,1998,NBA,1,17,MIN,Rasho Nesterovic\nestera01,22.03,C,si,
+1085,1998,NBA,1,18,HOU,Mirsad Turkcan\turkcmi01,22.022,F,rs,
+1086,1998,NBA,1,19,MIL,Pat Garrity\garripa01,21.31,F,us,University of Notre Dame
+1087,1998,NBA,1,20,ATL,Roshown McLeod\mcleoro01,22.225,F,us,Duke University
+1088,1998,NBA,1,21,CHH,Ricky Davis\davisri01,18.279,G,us,University of Iowa
+1089,1998,NBA,1,22,LAC,Brian Skinner\skinnbr01,22.041,F,us,Baylor University
+1090,1998,NBA,1,23,DEN,Tyronn Lue\luety01,21.057,G,us,University of Nebraska
+1091,1998,NBA,1,24,SAS,Felipe Lopez\lopezfe01,23.193,G,do,St. John's University
+1092,1998,NBA,1,25,IND,Al Harrington\harrial01,18.132,F,us,
+1093,1998,NBA,1,26,LAL,Sam Jacobson\jacobsa01,22.343,G-F,us,University of Minnesota
+1094,1998,NBA,1,27,SEA,Vladimir Stepania\stepavl01,22.052,C,ge,
+1095,1998,NBA,1,28,CHI,Corey Benjamin\benjaco01,20.125,G,us,Oregon State University
+1096,1998,NBA,1,29,UTA,Nazr Mohammed\mohamna01,20.297,C,us,University of Kentucky
+1097,1998,NBA,2,30,DAL,Ansu Sesay\sesayan01,21.335,F,us,University of Mississippi
+1098,1998,NBA,2,31,LAL,Ruben Patterson\patteru01,22.334,F,us,University of Cincinnati
+1099,1998,NBA,2,32,SEA,Rashard Lewis\lewisra02,18.325,F,us,
+1100,1998,NBA,2,33,SEA,Jelani McCoy\mccoyje01,20.205,C,us,University of California Los Angeles
+1101,1998,NBA,2,34,CHI,Shammond Williams\willish01,23.086,G,us,University of North Carolina
+1102,1998,NBA,2,35,DAL,Bruno Sundov\sundobr01,18.139,C,hr,
+1103,1998,NBA,2,36,SAC,Jerome James\jamesje01,22.225,C,us,Florida Agricultural and Mechanical University
+1104,1998,NBA,2,37,PHI,Casey Shaw\shawca01,22.345,C,us,University of Toledo
+1105,1998,NBA,2,38,NYK,DeMarco Johnson\johnsde02,22.267,F,us,University of North Carolina at Charlotte
+1106,1998,NBA,2,39,MIL,Rafer Alston\alstora01,21.34,G,us,California State University Fresno
+1107,1998,NBA,2,40,DET,Korleone Young\youngko01,19.18,F,us,
+1108,1998,NBA,2,41,HOU,Cuttino Mobley\moblecu01,22.302,G,us,University of Rhode Island
+1109,1998,NBA,2,42,ORL,Miles Simon\simonmi01,22.221,G,se,University of Arizona
+1110,1998,NBA,2,43,WAS,Jahidi White\whiteja01,22.131,F-C,us,Georgetown University
+1111,1998,NBA,2,44,NYK,Sean Marks\marksse01,22.311,F-C,nz,University of California
+1112,1998,NBA,2,45,LAL,Toby Bailey\baileto01,22.223,G,us,University of California Los Angeles
+1113,1998,NBA,2,46,MIN,Andrae Patterson\pattean01,22.23,F,us,Indiana University
+1114,1998,NBA,2,47,TOR,Tyson Wheeler\wheelty01,22.265,G,us,University of Rhode Island
+1115,1998,NBA,2,48,CLE,Ryan Stack\stackry01,22.341,F,us,University of South Carolina
+1116,1998,NBA,2,49,ATL,Cory Carr\carrco01,22.207,G,us,Texas Tech University
+1117,1998,NBA,2,50,CHH,Andrew Betts,,,,California State University Long Beach
+1118,1998,NBA,2,51,MIA,Corey Brewer,,,,University of Oklahoma
+1119,1998,NBA,2,52,SAS,Derrick Dial\dialde01,22.192,G,us,Eastern Michigan University
+1120,1998,NBA,2,53,DAL,Greg Buckner\buckngr01,21.286,G,us,Clemson University
+1121,1998,NBA,2,54,DEN,Tremaine Fowlkes\fowlktr01,22.079,F,us,California State University Fresno
+1122,1998,NBA,2,55,DEN,Ryan Bowen\bowenry01,22.222,F,us,University of Iowa
+1123,1998,NBA,2,56,VAN,J.R. Henderson\hendejr01,21.242,F,us,University of California Los Angeles
+1124,1998,NBA,2,57,UTA,Torraye Braggs\braggto01,22.045,F,us,Xavier University
+1125,1998,NBA,2,58,CHI,Maceo Baston\bastoma01,23.032,F,us,University of Michigan
