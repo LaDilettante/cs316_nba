@@ -1,1 +1,1 @@
-Hamsa Pillai - Created the front-end and webapp for the project. It's rather simple right now but will be expanded. It would be further along but one of our members dropped the class.
+Hamsa Pillai - Created the front-end and webapp in Flask for the project. It's rather simple right now but will be expanded. It would be further along but one of our members dropped the class.
