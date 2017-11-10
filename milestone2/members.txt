@@ -1,0 +1,4 @@
+Hamsa Pillai - Created the front-end and webapp in Flask for the project. It's rather simple right now but will be expanded. It would be further along but one of our members dropped the class.
+
+Vidur Malhotra 
+  -Found Draft data and put into csv file for insertion into database. Used python script (found on GitHub) to scrape NCAA player stat    data and place into csv file. Created progress report and updated E/R table to reflect statistics. 
