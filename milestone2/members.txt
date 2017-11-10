@@ -2,3 +2,7 @@ Hamsa Pillai - Created the front-end and webapp in Flask for the project. It's r
 
 Vidur Malhotra 
   -Found Draft data and put into csv file for insertion into database. Used python script (found on GitHub) to scrape NCAA player stat    data and place into csv file. Created progress report and updated E/R table to reflect statistics. 
+
+Anh Le
+- Cleaned NBA and NCAA data
+- Built a predictive model of NBA first year performance based on NCAA last year performance
