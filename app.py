@@ -26,6 +26,10 @@ playerDict = {}
 
 teamDict = {}
 
+playersYear = '2014'
+
+existingPlayersList = []
+
 def getDatabase():
 	global DATABASE
 	DATABASE =  sqlite3.connect(DATABASEPATH)
@@ -40,7 +44,10 @@ def getExistingCollegePlayers():
 	global DATABASE
 	cursor = DATABASE.cursor()
 	#year = (2015,)
-	cursor.execute("SELECT DISTINCT Player FROM ncaa WHERE Year='2014' ORDER BY Player")
+	strng = "SELECT DISTINCT Player FROM ncaa WHERE Year='" + year + "' ORDER BY PLAYER"
+	print(playersYear)
+	#cursor.execute("SELECT DISTINCT Player FROM ncaa WHERE Year='2014' ORDER BY Player")
+	cursor.execute(strng)
 	rows =(cursor.fetchall())
 	players = []
 	for p in rows:
@@ -80,9 +87,15 @@ class BasketballForm(Form):
 	blocks = IntegerField('Blocks', [validators.Optional()], render_kw={"placeholder":"Blocks"})
 	steals = IntegerField('Steals', [validators.Optional()], render_kw={"placeholder":"Steals"})
 
+
 	existingTeams = getExistingTeams()
 	existingTeams.insert(0, ('Select Team', 'Select Team'))
 	team = SelectField(u'Existing NCAA Teams', choices=existingTeams, default='Select Team')
+	
+	playerYears = [(str(i), str(i)) for i in range(2002,2015)]
+	playerYears.insert(0, ('Select Year', 'Select Year'))
+	playerYear = SelectField(u'College Players for Year', [validators.Optional()], choices=playerYears, default='Select Year')
+
 	existingPlayers2 = getExistingCollegePlayers()
 	existingPlayers2.insert(0,('Select Player', 'Select Player'))
 	playerChoice= SelectField(u'Existing College Players', choices=existingPlayers2, default='Select Player')
@@ -96,7 +109,8 @@ def index():
 	statsDict['STL'] = -1
 	statsDict['BLK'] = -1
 	statsDict['POS'] = "C"
-	form=BasketballForm(request.form)
+	statsDict['TEAM'] = "None"
+	form=BasketballForm(request.form, "2014")
 	print("-----------------------------")
 	print(form.validate())
 	print(form.position.data)
@@ -104,6 +118,7 @@ def index():
 	if form.validate() and (form.position.data != 'None' or form.playerChoice.data != 'Select Player'):
 		#change global var userInput
 		#need steals and blocks
+
 		print("enters here?")
 		if (form.position == 'Select Position'):
 			print("something")
@@ -115,6 +130,7 @@ def index():
 			statsDict["RBD"] = float(request.form["rebounds"])
 		if form.position != 'None':
 			statsDict['POS'] = form.position.data
+		
 		filledStats = fillInEmptyStats(statsDict)
 		if form.playerChoice.data != 'Select Player':
 			filledStats = getStatsOfChosenPlayer(form.playerChoice.data, filledStats)
@@ -123,6 +139,9 @@ def index():
 		return hello()
 	print("else it goes here")
 	print(form.playerChoice.data)
+	if (form.playerYear.data!='Select Year'):
+		playersYear = form.playerYear.data[0]
+	form = BasketballForm(request.form)
 	return render_template('index.html', ballForm=form)
 
 def transposeDictToArray(statsDict):
