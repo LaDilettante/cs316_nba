@@ -1,0 +1,1 @@
+Vidur Malhotra- Obtained data for use in model. Specifically, obtained/scraped draft data, NCAA player data, and NCAA team data. Created python script to parse .csv files and input into sqlite database. Produced both progress reports for milestones and final project report.
