@@ -2,30 +2,66 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My test page</title>
+    <title>Amazing NBA Predictinator</title>
+    
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
   </head>
-  <body>
+  <body background="gradient.png">
+
+<img src="http://rs250.pbsrc.com/albums/gg262/Bookrob/NCAA%20Logos/NCAABasketballLogo.jpg~c200" class="rounded float-left" alt="Responsive image">
+<img src="http://content.sportslogos.net/news/2017/04/nba-logo-200x200.png" class="rounded float-right" alt="Responsive image">
+
+  </div>
+</div>
+<div class="container">
+
+  <div class="row">
+	<div class="col-sm">
+	<h1><p class="text-center">Amazing NBA Predictanator</p></h1>
+    ><p class="text-center"> Enter NCAA statistics below to predict a player's performance in the NBA </p>
+	</div>
+	</div>
+<div class="row">
+    <div class="col-sm">
+    
 	<form method="post" action="/">
-	{{ ballForm.position.label }}
+	<div>
+    {{ ballForm.position.label }}
 	{{ ballForm.position }}
+    </div>
+    <div>
 	{{ ballForm.points.label }}
 	{{ ballForm.points }}
 	{{ ballForm.assists.label }}
 	{{ ballForm.assists }}
 	{{ ballForm.rebounds.label }}
 	{{ ballForm.rebounds }}
+    </div>
+    <div>
 	{{ ballForm.blocks.label }}
 	{{ ballForm.blocks }}
 	{{ ballForm.steals.label }}
 	{{ ballForm.steals }}
+    </div>
 	{{ ballForm.team.label }}
 	{{ ballForm.team }}
-	{{ ballForm.playerYear.label }}
-	{{ ballForm.playerYear }}
+    <div>
+    {{ ballForm.playerYear.label }}
+    {{ ballForm.playerYear }}
+    </div>
+    <div>
 	{{ ballForm.playerChoice.label }}
 	{{ ballForm.playerChoice }}
-	<input type=submit value='Submit review' name='submit_btn'>
+    </div>
+	<input type=submit value='Activate Predictinator' name='submit_btn'>
 	</form>
-	    
+</div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>	    
   </body>
 </html>
