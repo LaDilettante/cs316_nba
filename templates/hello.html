@@ -2,26 +2,38 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My test page</title>
+    <title>Predictions</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous" />
     <link rel="stylesheet" href="{{ url_for('static', filename='helloStyles.css') }}">
   </head>
-  <body>
-    These are your predicted stats:
-    <span class='Points'>Points</span> <span class='Assists'>Assists</span> <span class='Rebounds'>Rebounds</span> 
-    {{ pointsPredict }} {{ assistsPredict }} {{ reboundsPredict }} 
-    <span class='Blocks'>Blocks</span> <span class='Steals'>Steals</span>  
-    {{ blocksPredict }} {{ stealsPredict }}
-
+  <body background="../static/gradient.png">
+  <h1><p class="text-center">Amazing NBA Predict-inator</p></h1>
+    <div class="yourPredictStats">These are your predicted stats:
+    </div>
+    <div>
+    <span>{{ pointsPredict }} <b>PPG</b></span> <span>{{ assistsPredict }} <b>APG</b> </span> <span>{{ reboundsPredict }} <b>RPG</b> </span>
+    </div>
+    <div>
+    <span>{{ blocksPredict }} <b>BPG</b></span> <span> {{ stealsPredict }} <b>SPG</b> </span>
+    </div>
+    <div class="similarPlayers">
     These are similar players:
-
-    {{ one[0] }} {{ one[1] }} {{ one[2] }} {{ one[3] }} {{ one[4] }} {{ one[5] }}
-
-    {{ two[0] }} {{ two[1] }} {{ two[2] }} {{ two[3] }} {{ two[4] }} {{ two[5] }}
-
-    {{ three[0] }} {{ three[1] }} {{ three[2] }} {{ three[3] }} {{ three[4] }} {{ three[5] }}
-
+    </div>
+    <div class="one">
+    <span class="name"><b>{{ one[0] }}</b></span> <span>{{ one[1] }} PPG</span><span> {{ one[2] }} APG</span> <span> {{ one[3] }} RPG </span> <span>{{ one[4] }} BPG</span><span> {{ one[5] }} SPG</span>
+    </div>
+    <div class="two">
+    <span class="name"><b>{{ two[0] }}</b></span><span> {{ two[1] }} PPG </span><span>{{ two[2] }} APG</span><span> {{ two[3] }} RPG</span><span> {{ two[4] }} BPG</span><span> {{ two[5] }} SPG</span>
+    </div>
+    <div class="three">
+    <span class="name"><b>{{ three[0] }}</b></span><span>  {{ three[1] }} PPG</span><span> {{ three[2] }} APG </span><span>{{ three[3] }} RPG</span><span> {{ three[4] }} BPG</span><span> {{ three[5] }} SPG</span>
+    </div>
     <form method=post action="/newSubmission">
     <input type=submit value='Get another prediction' name='another_btn'>
     </form>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>   
   </body>
 </html>
