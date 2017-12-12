@@ -38,7 +38,7 @@ nnModelTeamS = None
 finalizedStats = [0,0,0,0,0,0,0,0,0,0,0,0]
 teamStat = 'None'
 
-DATABASEPATH = './cs316_nba/data/data.sqlite_2'
+DATABASEPATH = './data/data.sqlite_2'
 
 DATABASE = None
 
