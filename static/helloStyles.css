@@ -1,10 +1,54 @@
 body {
 	background-color: white;
-	font-family: Raleway;
+
 }
 
-input {
-	width: 33%;
-	height: 5%;
 
+.text-center {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	width:75%;
+	margin: 0 auto;
+	height: 70px;
+}
+
+form {
+	width: 75%;
+	margin: 0 auto;
+}
+
+
+input {
+	width: 30%;
+	display: block;
+	margin: 0 auto;
+}
+
+.yourPredictStats {
+	font-size: 1.7em;
+}
+
+div span {
+	padding: 5%;
+	font-size: 1.4em;
+}
+
+.similarPlayers {
+	font-size: 1.7em;
+}
+
+.one span {
+	padding: 1%;
+	font-size: 1.2em;
+}
+.two span {
+	padding: 1%;
+	font-size: 1.2em;
+}
+.three span {
+	padding: 1%;
+	font-size: 1.2em;
 }
