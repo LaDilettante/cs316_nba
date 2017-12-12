@@ -2,13 +2,20 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My test page</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <title>Amazing NBA Predictinator</title>
+    
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+<style>
+div.middle {
+    vertical-align: middle;
+}
+</style>
   </head>
-  <body>
-
-<img src="http://rs250.pbsrc.com/albums/gg262/Bookrob/NCAA%20Logos/NCAABasketballLogo.jpg~c200" class="rounded float-left" alt="Responsive image">
-<img src="http://content.sportslogos.net/news/2017/04/nba-logo-200x200.png" class="rounded float-right" alt="Responsive image">
+  <body background="gradient.png">
+<div>
+</div>
+<div>
 
   </div>
 </div>
@@ -16,39 +23,64 @@
 
   <div class="row">
 	<div class="col-sm">
-	Amazing NBA Predictanator
+	<h1><p class="text-center">Amazing NBA Predictanator</p></h1>
+    <p class="text-center"> Enter NCAA statistics below to insert a player into the Predictinator </p>
 	</div>
 	</div>
-<div class="row">
+<div class="row" align="center" line-height:.7>
     <div class="col-sm">
     
-<div class="p-3 mb-2 bg-primary text-white">
-	<form method="post" action="/update">
+	<form method="post" action="/">
 	<div>
-	{{ uForm.name.label }}
+    {{ uForm.name.label }}
+	
+    </div>
+	<div>
 	{{ uForm.name }}
-	{{ uForm.points.label }}
-	{{ uForm.points }}
-	{{ uForm.assists.label }}
-	{{ uForm.assists }}
-	{{ uForm.rebounds.label }}
-	{{ uForm.rebounds }}
 	</div>
-	{{ uForm.blocks.label }}
-	{{ uForm.blocks }}
-	{{ uForm.steals.label }}
-	{{ uForm.steals }}
-	{{ uForm.team.label }}
-	{{ uForm.team }}
-	{{ uForm.playerYear.label }}
-	{{ uForm.playerYear }}
+	
+    <div>
+	{{ uForm.points.label }}
+	{{ uForm.assists.label }}
+	{{ uForm.rebounds.label }}
+    </div>
+    <div>
+     {{ uForm.points }}
+	{{ uForm.assists }}
+	{{ uForm.rebounds }}
+    </div>
+	
 
-	<input type=submit value='Update Predictanator' name='submit_btn'>
-	</form>
+    <div>
+	{{ uForm.blocks.label }}
+	{{ uForm.steals.label }}
+    </div>
+	<div>
+	{{ uForm.blocks }}
+	{{ uForm.steals }}
+	</div>
+<div>
+<img src="http://rs250.pbsrc.com/albums/gg262/Bookrob/NCAA%20Logos/NCAABasketballLogo.jpg~c200" class="rounded float-left" alt="Responsive image">
+<img src="http://content.sportslogos.net/news/2017/04/nba-logo-200x200.png" class="rounded float-right" alt="Responsive image">
+
+{{ uForm.team.label }}
+</div>
+	<div>
+	{{ uForm.team }}
+</div>
+    <div>
+    {{ uForm.playerYear.label }}
+    
+    </div>
+	<div>
+	{{ uForm.playerYear }}
+</div>
+<input type=submit value='Update Predictinator' name='submit_btn'>
+</form>
 </div>
   </div>
 </div>
-</div>
+
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>	    
