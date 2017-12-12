@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='helloStyles.css') }}">
+  </head>
+  <body>
+    These are your predicted stats:
+    <span class='Points'>Points</span> <span class='Assists'>Assists</span> <span class='Rebounds'>Rebounds</span> 
+    {{ pointsPredict }} {{ assistsPredict }} {{ reboundsPredict }} 
+    <span class='Blocks'>Blocks</span> <span class='Steals'>Steals</span>  
+    {{ blocksPredict }} {{ stealsPredict }}
+
+    These are similar players:
+
+    {{ one[0] }} {{ one[1] }} {{ one[2] }} {{ one[3] }} {{ one[4] }} {{ one[5] }}
+
+    {{ two[0] }} {{ two[1] }} {{ two[2] }} {{ two[3] }} {{ two[4] }} {{ two[5] }}
+
+    {{ three[0] }} {{ three[1] }} {{ three[2] }} {{ three[3] }} {{ three[4] }} {{ three[5] }}
+
+    <form method=post action="/newSubmission">
+    <input type=submit value='Get another prediction' name='another_btn'>
+    </form>
+  </body>
+</html>
