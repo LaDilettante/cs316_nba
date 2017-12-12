@@ -1,3 +1,5 @@
 Vidur Malhotra- Obtained data for use in model. Specifically, obtained/scraped draft data, NCAA player data, and NCAA team data. Created python script to parse .csv files and input into sqlite database. Produced both progress reports for milestones and final project report.
 
 Hamsa Pillai - Created the webapp in Flask. Connected the 20 different ML models with the databases and created the html files for the frontend using Jinja. Created interface that users use to interact with the data and model, insert new entries, etc.
+
+Alexander Blumenstock:  Scraped NBA draft data and NBA rookie season data.  Wrote python script to create and populate sqlite database.  Produced original E/R diagrams.  Created CSS stylesheet to improve user experience from the webpage.
