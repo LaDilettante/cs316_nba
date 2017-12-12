@@ -305,31 +305,31 @@ def newSubmission():
 	return redirect('/')
 
 def unpickleRFModel():
-	modelFile = open('./cs316_nba/model/randomforest_point.pkl', 'rb')
+	modelFile = open('./model/randomforest_point.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelP
 	rfModelP = model
 
-	modelFile = open('./cs316_nba/model/randomforest_assist.pkl', 'rb')
+	modelFile = open('./model/randomforest_assist.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelA
 	rfModelA = model
 
-	modelFile = open('./cs316_nba/model/randomforest_rebound.pkl', 'rb')
+	modelFile = open('./model/randomforest_rebound.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelR
 	rfModelR = model
 
-	modelFile = open('./cs316_nba/model/randomforest_block.pkl', 'rb')
+	modelFile = open('./model/randomforest_block.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelB
 	rfModelB = model
 
-	modelFile = open('./cs316_nba/model/randomforest_steal.pkl', 'rb')
+	modelFile = open('./model/randomforest_steal.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelS
@@ -338,31 +338,31 @@ def unpickleRFModel():
 
 
 
-	modelFile = open('./cs316_nba/model/randomforest_team_point.pkl', 'rb')
+	modelFile = open('./model/randomforest_team_point.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelTeamP
 	rfModelTeamP = model
 
-	modelFile = open('./cs316_nba/model/randomforest_team_assist.pkl', 'rb')
+	modelFile = open('./model/randomforest_team_assist.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelTeamA
 	rfModelTeamA = model
 
-	modelFile = open('./cs316_nba/model/randomforest_team_rebound.pkl', 'rb')
+	modelFile = open('./model/randomforest_team_rebound.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelTeamR
 	rfModelTeamR = model
 
-	modelFile = open('./cs316_nba/model/randomforest_team_block.pkl', 'rb')
+	modelFile = open('./model/randomforest_team_block.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelTeamB
 	rfModelTeamB = model
 
-	modelFile = open('./cs316_nba/model/randomforest_team_steal.pkl', 'rb')
+	modelFile = open('./model/randomforest_team_steal.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global rfModelTeamS
@@ -371,31 +371,31 @@ def unpickleRFModel():
 	return
 
 def unpickleNNModel():
-	modelFile = open('./cs316_nba/model/nearestneighbor_point.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_point.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelP
 	nnModelP = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_assist.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_assist.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelA ##TODO
 	nnModelA = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_rebound.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_rebound.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelR ##TODO
 	nnModelR = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_block.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_block.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelB ##TODO
 	nnModelB = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_steal.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_steal.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelS ##TODO
@@ -404,31 +404,31 @@ def unpickleNNModel():
 
 
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_team_point.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_team_point.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelTeamP
 	nnModelTeamP = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_team_assist.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_team_assist.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelTeamA
 	nnModelTeamA = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_team_rebound.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_team_rebound.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelTeamR
 	nnModelTeamR = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_team_block.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_team_block.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelTeamB
 	nnModelTeamB = model
 
-	modelFile = open('./cs316_nba/model/nearestneighbor_team_steal.pkl', 'rb')
+	modelFile = open('./model/nearestneighbor_team_steal.pkl', 'rb')
 	model = pickle.load(modelFile)
 	modelFile.close()
 	global nnModelTeamS
