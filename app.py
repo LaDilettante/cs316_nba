@@ -489,7 +489,7 @@ def getTeamNeighborStats(stats):
 	lis = nnModelTeamP.kneighbors([stats], 3)
 	arr = []
 	statement = "SELECT * FROM rookiedata WHERE Player LIKE ?"
-	pandaFile = open('./cs316_nba/model/training_data_team.pkl', 'rb')
+	pandaFile = open('./model/training_data_team.pkl', 'rb')
 	panda = pickle.load(pandaFile)
 	for i in lis[1][0]:
 
@@ -515,7 +515,7 @@ def getNeighborStats(stats):
 	lis = nnModelP.kneighbors([stats], 3)
 	arr = []
 	statement = "SELECT * FROM rookiedata WHERE Player LIKE ?"
-	pandaFile = open('./cs316_nba/model/training_data.pkl', 'rb')
+	pandaFile = open('./model/training_data.pkl', 'rb')
 	panda = pickle.load(pandaFile)
 	for i in lis[1][0]:
 
